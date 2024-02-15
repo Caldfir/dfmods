@@ -1,6 +1,6 @@
 [ID:caldfir_recolossus]
-[NUMERIC_VERSION:2]
-[DISPLAYED_VERSION:0.2]
+[NUMERIC_VERSION:3]
+[DISPLAYED_VERSION:0.3]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.1]
 [REQUIRES_ID_BEFORE_ME:vanilla_creatures]
@@ -43,6 +43,6 @@ graphics:
 [STEAM_TAG:megabeast]
 [STEAM_TAG:balance]
 [STEAM_TAG:tweak]
-[STEAM_CHANGELOG:simplify material/tissue settings]
+[STEAM_CHANGELOG:colors to match metallic-colors mod]
 
 [STEAM_FILE_ID:3144865739]
