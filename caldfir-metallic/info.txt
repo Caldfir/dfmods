@@ -1,0 +1,8 @@
+[ID:caldfir-metallic]
+[NUMERIC_VERSION:3]
+[DISPLAYED_VERSION:0.3]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.1]
+[AUTHOR:Caldfir]
+[NAME:Colorful Metals]
+[DESCRIPTION:Custom palette for each vanilla metal.]
