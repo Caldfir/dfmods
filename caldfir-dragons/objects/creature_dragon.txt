@@ -26,6 +26,7 @@ HYDRA
 [SELECT_CREATURE:CAVE_DRAGON]
   [APPLY_CREATURE_VARIATION:RE_DRAGON]
   [APPLY_CREATURE_VARIATION:TAIL_ATTACK]
+  [DESCRIPTION:A gigantic monster, once a dragon, now adapted to and polluted by the underground.  Its face is full of incredibly long teeth.  Its eyes are large to penetrate the darkness.]
   [BABY:1][GENERAL_BABY_NAME:cave dragon hatchling:cave dragon hatchlings]
   [CHILD:10][GENERAL_CHILD_NAME:cave dragon whelp:cave dragon whelps]
   [BODY_SIZE:0:0:6000]
