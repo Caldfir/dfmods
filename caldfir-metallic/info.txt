@@ -16,12 +16,14 @@ The default metals all use flat color-palettes, and have a lot of repeats. This 
 This will affect the visuals and color-descriptions for anything made of metal or the corresponding "native"-metal. Zero gameplay/balance changes.
 
 
-This should generally [i]not[/i] conflict with mods that modify metal material properties or add new metals. This mod should probably occur after such mods in load-order.
+This should generally (i)not(/i) conflict with mods that modify metal material properties or add new metals. This mod should probably occur after such mods in load-order.
 
-This [b]WILL[/b] conflict with any other mods that add colors or modify the default palette.
+This (b)WILL(/b) conflict with any other mods that add colors or modify the default palette.
 ]
 [STEAM_TAG:mod]
 [STEAM_TAG:caldfir]
+[STEAM_TAG:metals]
+[STEAM_TAG:graphics]
 [STEAM_CHANGELOG:brighter silver/platinum, +rusty variants]
 
 [STEAM_FILE_ID:3161048506]

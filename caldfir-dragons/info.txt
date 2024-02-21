@@ -15,7 +15,7 @@ Minor fixes to dragons (and cave-dragons). Vanilla dragons have fallen behind co
 
 Note that trap-avoiders need some extra work in order to be caged. Dragons can be knocked-out using a cave-in, which will allow cage-traps to trigger. Hydras are not stunnable (multiple heads) so you need to use webbed traps. This added layer of complexity makes dragon-taming a real endgame accomplishment.
 
-[h3]dragons[/h3]
+(h3)dragons(/h3)
 
     +TRAPAVOID
     grows to elephant-size by age 5
@@ -27,7 +27,7 @@ Note that trap-avoiders need some extra work in order to be caged. Dragons can b
     +natural skills (matches generated titans)
 
 
-[h3]cave-dragons[/h3]
+(h3)cave-dragons(/h3)
 
     same changes as dragons
     +natural-climber
@@ -36,7 +36,7 @@ Note that trap-avoiders need some extra work in order to be caged. Dragons can b
     +CURIOUS (tries to steal items)
 
 
-[h3]hydras[/h3]
+(h3)hydras(/h3)
 
     +TRAPAVOID
     grows to elephant-size by age 5
