@@ -1,4 +1,4 @@
-descriptor_color_metallic
+descriptor_color_1metallic
 
 [OBJECT:DESCRIPTOR_COLOR]
 
