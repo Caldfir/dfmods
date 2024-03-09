@@ -2,6 +2,9 @@ descriptor_color_2divine
 
 [OBJECT:DESCRIPTOR_COLOR]
 
+[COLOR:RESERVED_DIVINE]
+	[RGB:255:0:255]
+
 
 metal_divine
 
