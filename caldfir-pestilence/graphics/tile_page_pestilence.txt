@@ -3,11 +3,11 @@ tile_page_creatures
 [OBJECT:TILE_PAGE]
 
 [TILE_PAGE:CREATURES_PESTILENCE]
-	[FILE:images/creatures_pestilence.png]
-	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:160:64]
+  [FILE:images/creatures_pestilence.png]
+  [TILE_DIM:32:32]
+  [PAGE_DIM_PIXELS:160:64]
   
 [TILE_PAGE:STATUES_PESTILENCE]
-	[FILE:images/items_pestilence.png]
-	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:32:128]
+  [FILE:images/items_pestilence.png]
+  [TILE_DIM:32:32]
+  [PAGE_DIM_PIXELS:32:128]
