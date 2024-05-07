@@ -18,6 +18,9 @@ This will affect the visuals and color-descriptions for anything made of metal o
 This should generally (i)not(/i) conflict with mods that modify metal material properties or add new metals. This mod should probably occur after such mods in load-order.
 
 This (b)WILL(/b) conflict with any other mods that add colors or modify the default palette.
+
+
+(i)optional experimental colors for divine-metals: check the README(/i)
 ]
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
