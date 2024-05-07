@@ -1,8 +1,8 @@
 [ID:caldfir_metallic]
-[NUMERIC_VERSION:6]
-[DISPLAYED_VERSION:0.6]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.5]
+[NUMERIC_VERSION:7]
+[DISPLAYED_VERSION:0.7]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:7]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.7]
 [REQUIRES_ID_BEFORE_ME:vanilla_materials]
 [REQUIRES_ID_BEFORE_ME:vanilla_descriptors]
 [AUTHOR:Caldfir]
@@ -18,13 +18,10 @@ This will affect the visuals and color-descriptions for anything made of metal o
 This should generally (i)not(/i) conflict with mods that modify metal material properties or add new metals. This mod should probably occur after such mods in load-order.
 
 This (b)WILL(/b) conflict with any other mods that add colors or modify the default palette.
-
-
-(i)optional experimental colors for divine-metals: check the README(/i)
 ]
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
 [STEAM_TAG:graphics]
-[STEAM_CHANGELOG:optional fix for divine metals]
+[STEAM_CHANGELOG:optional fix for divine metals (disabled)]
 
 [STEAM_FILE_ID:3161048506]
