@@ -1,17 +1,33 @@
 [ID:caldfir_divine]
-[NUMERIC_VERSION:6]
-[DISPLAYED_VERSION:0.6]
+[NUMERIC_VERSION:4]
+[DISPLAYED_VERSION:0.4]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.1]
+[REQUIRES_ID:caldfir_metallic]
 [REQUIRES_ID_BEFORE_ME:caldfir_metallic]
 [AUTHOR:Caldfir]
-[NAME:Metallic-Divine]
+[NAME:Divine Metallic]
 [DESCRIPTION:Custom metallic-palette for each DIVINE metal.]
 
-[STEAM_TITLE:Metallic-Divine]
+[STEAM_TITLE:Divine Metallic]
+[STEAM_DESCRIPTION:
+REQUIRES: https://steamcommunity.com/sharedfiles/filedetails/?id=3161048506
+
+(b)YOU NEED TO DISABLE "GENERATED MATERIALS" IN ADVANCED WORLDGEN(/b)
+
+Optional experimental addon to the base metallic mod that extends to the
+divine metals. This is split out as a separate mod because it only works with
+advanced-worldgen tinkering.
+
+The divine (i)metals(/i) each have new unique palettes. Some look good.
+Some look dumb. Focus was more on making them interesting than attractive.
+Special thanks to (b)zippy38(/b) for the color baselines.
+
+The divine (i)fabrics(/i) have their original colors restored, but do not have
+the special metallic-only colors (this is just a bug workaround).
+]
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
 [STEAM_TAG:graphics]
-[STEAM_CHANGELOG:v0]
-
-[STEAM_FILE_ID:3241858802]
+[STEAM_TAG:bugfix]
+[STEAM_CHANGELOG:-]

@@ -9,6 +9,7 @@
 [DESCRIPTION:Diseases for dwarfs.]
 
 [STEAM_TITLE:Dwarf Pandemic]
+[STEAM_DESCRIPTION:Diseases for dwarfs.]
 [STEAM_TAG:mod]
 [STEAM_TAG:caldfir]
 [STEAM_TAG:difficulty]
