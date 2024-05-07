@@ -1,0 +1,15 @@
+
+REQUIRES 3161048506
+
+(b)YOU NEED TO DISABLE "GENERATED MATERIALS" IN ADVANCED WORLDGEN(/b)
+
+Optional experimental addon to the base metallic mod that extends to the
+divine metals. This is split out as a separate mod because it only works with
+advanced-worldgen tinkering.
+
+The divine (i)metals(/i) each have new unique palettes. Some look good.
+Some look dumb. Focus was more on making them interesting than attractive.
+Special thanks to (b)zippy38(/b) for the color baselines.
+
+The divine (i)fabrics(/i) have their original colors restored, but do not have
+the special metallic-only colors (this is just a bug workaround).
