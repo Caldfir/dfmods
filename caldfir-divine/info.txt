@@ -31,3 +31,5 @@ the special metallic-only colors (this is just a bug workaround).
 [STEAM_TAG:graphics]
 [STEAM_TAG:bugfix]
 [STEAM_CHANGELOG:-]
+
+[STEAM_FILE_ID:3241876812]
