@@ -1,6 +1,6 @@
 [ID:caldfir_metallic]
-[NUMERIC_VERSION:7]
-[DISPLAYED_VERSION:0.7]
+[NUMERIC_VERSION:8]
+[DISPLAYED_VERSION:0.8]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:7]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.7]
 [REQUIRES_ID_BEFORE_ME:vanilla_materials]
@@ -22,6 +22,6 @@ This (b)WILL(/b) conflict with any other mods that add colors or modify the defa
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
 [STEAM_TAG:graphics]
-[STEAM_CHANGELOG:optional fix for divine metals (disabled)]
+[STEAM_CHANGELOG:v4/v7+ upgrade path??]
 
 [STEAM_FILE_ID:3161048506]

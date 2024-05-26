@@ -137,3 +137,6 @@ metal_divine
   [WORD:VOLCANO]
 	[WORD:METAL]
   [RGB:255:0:0]
+  
+[COLOR:RESERVED_COLOR]
+  [RGB:255:0:255]
