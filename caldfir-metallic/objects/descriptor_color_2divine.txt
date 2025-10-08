@@ -1,0 +1,162 @@
+descriptor_color_2divine
+
+[OBJECT:DESCRIPTOR_COLOR]
+
+
+metal_divine
+
+[COLOR:METALLIC_BLIGHT]
+  [NAME:divine blight]
+  [WORD:BLIGHT]
+	[WORD:METAL]
+  [RGB:183:65:14]
+
+[COLOR:METALLIC_CHAOS]
+  [NAME:divine chaos]
+  [WORD:CHAOS]
+	[WORD:METAL]
+  [RGB:255:0:0]
+
+[COLOR:METALLIC_DARKNESS]
+  [NAME:divine darkness]
+  [WORD:DARK]
+	[WORD:METAL]
+  [RGB:0:0:0]
+
+[COLOR:METALLIC_DAWN]
+  [NAME:divine dawn]
+  [WORD:DAWN]
+	[WORD:METAL]
+  [RGB:255:255:0]
+
+[COLOR:METALLIC_DAY]
+  [NAME:divine day]
+  [WORD:DAY]
+	[WORD:METAL]
+  [RGB:255:255:255]
+
+[COLOR:METALLIC_DEATH]
+  [NAME:divine death]
+  [WORD:DEATH]
+	[WORD:METAL]
+  [RGB:175:238:238]
+
+[COLOR:METALLIC_DEFORMITY]
+  [NAME:divine deformity]
+  [WORD:GNARLED]
+	[WORD:METAL]
+  [RGB:0:0:0]
+
+[COLOR:METALLIC_DISEASE]
+  [NAME:divine disease]
+  [WORD:SICKNESS]
+	[WORD:METAL]
+  [RGB:0:0:0]
+
+[COLOR:METALLIC_EARTH]
+  [NAME:divine earth]
+  [WORD:EARTH]
+	[WORD:METAL]
+  [RGB:233:116:81]
+
+[COLOR:METALLIC_FIRE]
+  [NAME:divine fire]
+  [WORD:FIRE]
+	[WORD:METAL]
+  [RGB:255:255:0]
+
+[COLOR:METALLIC_JEWELS]
+  [NAME:divine jewels]
+  [WORD:JEWEL]
+	[WORD:METAL]
+  [RGB:0:255:0]
+
+[COLOR:METALLIC_LIGHT]
+  [NAME:divine light]
+  [WORD:LIGHT]
+	[WORD:METAL]
+  [RGB:255:255:255]
+
+[COLOR:METALLIC_LIGHTNING]
+  [NAME:divine lightning]
+  [WORD:LIGHTNING]
+	[WORD:METAL]
+  [RGB:255:255:0]
+
+[COLOR:METALLIC_MOON]
+  [NAME:divine moon]
+  [WORD:MOON]
+	[WORD:METAL]
+  [RGB:128:128:128]
+
+[COLOR:METALLIC_MOUNTAINS]
+  [NAME:divine mountains]
+  [WORD:MOUNTAIN]
+	[WORD:METAL]
+  [RGB:255:255:255]
+
+[COLOR:METALLIC_MUCK]
+  [NAME:divine muck]
+  [WORD:MUCK]
+	[WORD:METAL]
+  [RGB:150:75:0]
+
+[COLOR:METALLIC_MUSIC]
+  [NAME:divine music]
+  [WORD:MUSIC]
+	[WORD:METAL]
+  [RGB:255:255:255]
+
+[COLOR:METALLIC_NIGHT]
+  [NAME:divine night]
+  [WORD:NIGHT]
+	[WORD:METAL]
+  [RGB:0:0:0]
+
+[COLOR:METALLIC_RAINBOWS]
+  [NAME:divine rainbows]
+  [WORD:COLOR]
+	[WORD:METAL]
+  [RGB:128:128:128]
+
+[COLOR:METALLIC_SKY]
+  [NAME:divine sky]
+  [WORD:SKY]
+	[WORD:METAL]
+  [RGB:135:206:235]
+
+[COLOR:METALLIC_STARS]
+  [NAME:divine stars]
+  [WORD:STAR]
+	[WORD:METAL]
+  [RGB:255:255:255]
+
+[COLOR:METALLIC_STORMS]
+  [NAME:divine storms]
+  [WORD:STORM]
+	[WORD:METAL]
+  [RGB:128:128:128]
+
+[COLOR:METALLIC_SUN]
+  [NAME:divine sun]
+  [WORD:SUN]
+	[WORD:METAL]
+  [RGB:255:255:255]
+
+[COLOR:METALLIC_THUNDER]
+  [NAME:divine thunder]
+  [WORD:THUNDER]
+	[WORD:METAL]
+  [RGB:128:128:128]
+
+[COLOR:METALLIC_TORTURE]
+  [NAME:divine torture]
+  [WORD:TORTURE]
+	[WORD:METAL]
+  [RGB:0:0:0]
+
+[COLOR:METALLIC_VOLCANOS]
+  [NAME:divine volcanos]
+  [WORD:VOLCANO]
+	[WORD:METAL]
+  [RGB:255:0:0]

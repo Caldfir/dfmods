@@ -2,8 +2,6 @@ descriptor_color_1metallic
 
 [OBJECT:DESCRIPTOR_COLOR]
 
-[COLOR:RESERVED_METALLIC]
-	[RGB:255:0:255]
   
 iron
   
