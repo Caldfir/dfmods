@@ -1,0 +1,11 @@
+[ID:regional_plants]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:0.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.01]
+[AUTHOR:Caldfir]
+[NAME:Regional Plants]
+[CONFLICTS_WITH_ID:vanilla_plants]
+[REQUIRES_ID_AFTER_ME:vanilla_plants_graphics]
+[DESCRIPTION:Base-mod for regional plants.]
+
