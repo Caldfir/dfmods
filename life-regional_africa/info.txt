@@ -1,0 +1,8 @@
+[ID:caldfir_region-life_africa]
+[NUMERIC_VERSION:5002]
+[DISPLAYED_VERSION:0.1]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.1]
+[AUTHOR:Caldfir]
+[NAME:Regional Life (-Africa)]
+[DESCRIPTION:Disables plants and animals originating in Africa.]

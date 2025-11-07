@@ -1,0 +1,4 @@
+creature_wild.txt
+[OBJECT:CREATURE]
+[CUT_CREATURE:ADDER]
+  

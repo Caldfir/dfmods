@@ -1,0 +1,2 @@
+plant_shrub.txt
+[OBJECT:PLANT]

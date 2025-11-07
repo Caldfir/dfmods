@@ -1,0 +1,4 @@
+plant_tree.txt
+[OBJECT:PLANT]
+[CUT_PLANT:COFFEE]
+[CUT_PLANT:MANGROVE]

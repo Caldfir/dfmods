@@ -1,0 +1,8 @@
+[ID:caldfir_region-life_south-oceania]
+[NUMERIC_VERSION:5002]
+[DISPLAYED_VERSION:0.1]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.1]
+[AUTHOR:Caldfir]
+[NAME:Regional Life (-Oceania)]
+[DESCRIPTION:Disables plants and animals originating in oceania (Australia,NewZeland, NewGuinea).]
