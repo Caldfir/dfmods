@@ -17,8 +17,8 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[BONECARN]
 	[NATURAL]
-	[BIOME:FOREST_TAIGA]
-	[BIOME:TUNDRA]
+	(BIOME:FOREST_TAIGA)
+	(BIOME:TUNDRA)
 	[LARGE_ROAMING]
 	[POPULATION_NUMBER:15:30]
 	[BENIGN]
@@ -169,7 +169,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	[PETVALUE:75]
 	[PET_EXOTIC]
 	[TRAINABLE]
-	[BIOME:FOREST_TAIGA]
+	(BIOME:FOREST_TAIGA)
 	[LARGE_ROAMING][FREQUENCY:5]
 	[POPULATION_NUMBER:2:3]
 	[CLUSTER_NUMBER:1:1]

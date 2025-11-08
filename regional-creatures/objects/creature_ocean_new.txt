@@ -19,7 +19,7 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	[CARNIVORE]
 	[AQUATIC][NOBONES][IMMOBILE_LAND][UNDERSWIM]
 	[NATURAL]
-	[BIOME:ANY_OCEAN]
+	(BIOME:ANY_OCEAN)
 	[NO_DRINK]
 	[POPULATION_NUMBER:50:100]
 	[PREFSTRING:intelligence]
@@ -172,7 +172,7 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:crab:crabs:crab]
 	[CREATURE_TILE:'c'][COLOR:4:0:1]
 	[NATURAL]
-	[BIOME:ANY_OCEAN]
+	(BIOME:ANY_OCEAN)
 	[FREQUENCY:100]
 	[LARGE_ROAMING]
 	[POPULATION_NUMBER:250:500]
@@ -289,7 +289,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[PET_EXOTIC]
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
-	[BIOME:OCEAN_ARCTIC]
+	(BIOME:OCEAN_ARCTIC)
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[BENIGN][NATURAL]
@@ -427,7 +427,7 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	[CANNOT_JUMP]
 	[NATURAL]
 	[NOT_BUTCHERABLE]
-	[BIOME:ANY_OCEAN]
+	(BIOME:ANY_OCEAN)
 	[NO_DRINK]
 	[POPULATION_NUMBER:250:500]
 	[PREFSTRING:ability to change color]
@@ -580,7 +580,7 @@ Orcas were sponsored by the generous contributions of the Bay 12 community.
 	[AQUATIC][UNDERSWIM][IMMOBILE_LAND][BEACH_FREQUENCY:10]
 	[BENIGN][NATURAL]
 	[PETVALUE:750]
-	[BIOME:ANY_OCEAN]
+	(BIOME:ANY_OCEAN)
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:3:9]
 	[PREFSTRING:coloration]
@@ -712,9 +712,9 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 	[AQUATIC][NOBONES][IMMOBILE][UNDERSWIM]
 	[BENIGN][NATURAL]
 	[NOT_BUTCHERABLE]
-	[BIOME:ANY_OCEAN]
-	[BIOME:ANY_LAKE]
-	[BIOME:ANY_RIVER]
+	(BIOME:ANY_OCEAN)
+	(BIOME:ANY_LAKE)
+	(BIOME:ANY_RIVER)
 	[NO_EAT]
 	[NO_DRINK]
 	[NOTHOUGHT]
@@ -797,7 +797,7 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	[CASTE_NAME:horseshoe crab:horseshoe crabs:horseshoe crab]
 	[CREATURE_TILE:'c'][COLOR:6:0:0]
 	[NATURAL]
-	[BIOME:ANY_OCEAN]
+	(BIOME:ANY_OCEAN)
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
 	[FREQUENCY:100]
@@ -904,7 +904,7 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	[AQUATIC][UNDERSWIM][IMMOBILE_LAND][BEACH_FREQUENCY:10]
 	[BENIGN][MEANDERER][NATURAL]
 	[PETVALUE:1000]
-	[BIOME:ANY_OCEAN]
+	(BIOME:ANY_OCEAN)
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
 	[PREFSTRING:teeth]
@@ -1040,7 +1040,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[PET_EXOTIC]
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
-	[BIOME:OCEAN_ARCTIC]
+	(BIOME:OCEAN_ARCTIC)
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[BENIGN][MEANDERER][NATURAL]
@@ -1175,7 +1175,7 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 	[PET_EXOTIC]
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
-	[BIOME:OCEAN_ARCTIC]
+	(BIOME:OCEAN_ARCTIC)
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:3:7]
 	[BENIGN][NATURAL]
@@ -1310,7 +1310,7 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	[CANNOT_JUMP]
 	[NATURAL]
 	[NOT_BUTCHERABLE]
-	[BIOME:ANY_OCEAN]
+	(BIOME:ANY_OCEAN)
 	[NO_DRINK]
 	[POPULATION_NUMBER:250:500]
 	[PREFSTRING:shells]

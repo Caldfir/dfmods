@@ -12,7 +12,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	[CASTE_NAME:damselfly:damselflies:damselfly]
 	[CREATURE_TILE:249][COLOR:3:0:1]
 	[NATURAL]
-	[BIOME:ANY_POOL]
+	(BIOME:ANY_POOL)
 	[VERMIN_GROUNDER][FREQUENCY:100]
 	[VERMIN_NOTRAP]
 	[POPULATION_NUMBER:250:500]
@@ -120,7 +120,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:moth:moths:moth]
 	[CASTE_NAME:moth:moths:moth]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_GROUNDER][FREQUENCY:100]
 	[VERMIN_NOTRAP]
 	[POPULATION_NUMBER:250:500]
@@ -227,7 +227,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	[CASTE_NAME:grasshopper:grasshoppers:grasshopper]
 	[CREATURE_TILE:250][COLOR:2:0:1]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_GROUNDER][FREQUENCY:100]
 	[UBIQUITOUS]
 	[VERMIN_NOTRAP]
@@ -333,11 +333,11 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[PET_EXOTIC]
 	[PARALYZEIMMUNE]
 	[NATURAL]
-	[BIOME:ANY_DESERT]
-	[BIOME:GRASSLAND_TROPICAL]
-	[BIOME:SAVANNA_TROPICAL]
-	[BIOME:SHRUBLAND_TROPICAL]
-	[BIOME:FOREST_TROPICAL_CONIFER]
+	(BIOME:ANY_DESERT)
+	(BIOME:GRASSLAND_TROPICAL)
+	(BIOME:SAVANNA_TROPICAL)
+	(BIOME:SHRUBLAND_TROPICAL)
+	(BIOME:FOREST_TROPICAL_CONIFER)
 	[VERMIN_GROUNDER][VERMIN_HATEABLE]
 	[POPULATION_NUMBER:250:500]
 	[SMALL_REMAINS]
@@ -495,7 +495,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:mantis:mantises:mantis]
 	[CREATURE_TILE:250][COLOR:2:0:1]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_GROUNDER][FREQUENCY:100]
 	[VERMIN_NOTRAP]
 	[POPULATION_NUMBER:25:50]
@@ -607,7 +607,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:tick:ticks:tick]
 	[CREATURE_TILE:250][COLOR:0:0:1]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_SOIL][FREQUENCY:100]
 	[UBIQUITOUS]
 	[VERMIN_NOTRAP]
@@ -715,7 +715,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:louse:lice:louse]
 	[CREATURE_TILE:250][COLOR:6:0:0]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_SOIL][FREQUENCY:100]
 	[UBIQUITOUS]
 	[VERMIN_NOTRAP]
@@ -821,7 +821,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:thrips:thrips:thrips]
 	[CREATURE_TILE:250][COLOR:6:0:0]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_SOIL][FREQUENCY:100]
 	[UBIQUITOUS]
 	[VERMIN_NOTRAP]
@@ -932,7 +932,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 	[SMALL_REMAINS][VERMIN_NOTRAP][NOBONES]
 	[NATURAL][PET]
 	[BENIGN][NOT_BUTCHERABLE]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[POPULATION_NUMBER:250:500]
 	[PREFSTRING:slime trails]
 	[BODY:BASIC_1PARTBODY:BASIC_HEAD:HEART:GUTS:BRAIN:MOUTH:2EYESTALKS]
@@ -1015,8 +1015,8 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:mosquito:mosquitos:mosquito]
 	[CREATURE_TILE:250][COLOR:0:0:1]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
-	[BIOME:ANY_POOL]
+	(BIOME:NOT_FREEZING)
+	(BIOME:ANY_POOL)
 	[VERMIN_MICRO][VERMIN_GROUNDER][FREQUENCY:100][VERMIN_HATEABLE]
 	[UBIQUITOUS]
 	[VERMIN_NOTRAP]
@@ -1131,7 +1131,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[CARNIVORE]
 	[PET_EXOTIC]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_GROUNDER][VERMIN_HATEABLE]
 	[POPULATION_NUMBER:250:500]
 	[SMALL_REMAINS]
@@ -1234,7 +1234,7 @@ Termites were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:termite:termites:termite]
 	[CREATURE_TILE:250][COLOR:7:0:1]
 	[NATURAL]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[VERMIN_SOIL_COLONY][FREQUENCY:100]
 	[UBIQUITOUS]
 	[VERMIN_NOTRAP]
@@ -1309,7 +1309,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	[NATURAL]
 	[NOT_BUTCHERABLE]
 	[CANNOT_JUMP]
-	[BIOME:OCEAN_TEMPERATE]
+	(BIOME:OCEAN_TEMPERATE)
 	[POPULATION_NUMBER:250:500]
 	[PREFSTRING:predatory nature]
 	[PREFSTRING:striking coloration]
@@ -1413,7 +1413,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[PET_EXOTIC]
 	[WEBIMMUNE]
 	[NATURAL]
-	[BIOME:FOREST_TEMPERATE_BROADLEAF]
+	(BIOME:FOREST_TEMPERATE_BROADLEAF)
 	[VERMIN_GROUNDER][VERMIN_HATEABLE]
 	[POPULATION_NUMBER:250:500]
 	[SMALL_REMAINS]
@@ -1575,7 +1575,7 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	[SMALL_REMAINS][VERMIN_NOTRAP][NOBONES]
 	[BENIGN][NATURAL][PET]
 	[NOT_BUTCHERABLE]
-	[BIOME:NOT_FREEZING]
+	(BIOME:NOT_FREEZING)
 	[POPULATION_NUMBER:250:500]
 	[PREFSTRING:shells]
 	[BODY:BASIC_1PARTBODY:BASIC_HEAD:HEART:GUTS:BRAIN:MOUTH:SHELL:2EYESTALKS]
