@@ -10,7 +10,7 @@ creature_large_ocean
 	[CREATURE_TILE:'W'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:400]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
 	(BIOME:OCEAN_ARCTIC)
@@ -119,9 +119,9 @@ creature_large_ocean
 	[CLUSTER_NUMBER:3:7]
 	[CREATURE_TILE:'W']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:tusks]
 	[PREFSTRING:whiskers]
@@ -2988,7 +2988,7 @@ Narwhals were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'N']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:2000]
 	[GO_TO_END]
 	[PREFSTRING:horns]

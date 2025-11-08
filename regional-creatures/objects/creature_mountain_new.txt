@@ -16,7 +16,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:25]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
@@ -156,9 +156,9 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'W']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:tenacity]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph
@@ -175,7 +175,7 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 	[CREATURE_TILE:'c'][COLOR:7:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:3]
-	[PET]
+	(PET)
 	[NATURAL]
 	[LARGE_ROAMING]
 	(BIOME:MOUNTAIN)
@@ -302,9 +302,9 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:3:5]
 	[CREATURE_TILE:'C']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:fur]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph

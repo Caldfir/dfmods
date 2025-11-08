@@ -1571,7 +1571,7 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:7:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:2000]
 	[GO_TO_END]
 	[PREFSTRING:ability to spray ink]

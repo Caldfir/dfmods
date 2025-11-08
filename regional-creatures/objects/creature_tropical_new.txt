@@ -17,7 +17,7 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:25]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
@@ -147,9 +147,9 @@ Mongooses were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:agility]
 	[PREFSTRING:cunning]
@@ -177,7 +177,7 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:15]
 	[GRASSTRAMPLE:0][NATURAL]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[BONECARN]
 	[PREFSTRING:distinctive laugh]
 	[PREFSTRING:coordinated hunting]
@@ -303,9 +303,9 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:15]
 	[CREATURE_TILE:'H']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:distinctive laugh]
 	[PREFSTRING:coordinated hunting]
@@ -323,7 +323,7 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:anaconda:anacondas:anaconda]
 	[CREATURE_TILE:'A'][COLOR:2:0:1]
 	[PETVALUE:200]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[FREQUENCY:50]
 	[NATURAL]
 	[CARNIVORE]
@@ -436,9 +436,9 @@ Anacondas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'A']
 	[COLOR:2:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:great size]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
@@ -466,7 +466,7 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 	[CARNIVORE][NATURAL]
 	[MEANDERER]
 	[PETVALUE:400]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[GRASSTRAMPLE:20]
 	[PREFSTRING:intelligence]
 	[BODY:QUADRUPED_NECK:TAIL:2EYES:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:5TOES_FQ_REG:5TOES_RQ_REG:MOUTH:TONGUE:GENERIC_TEETH:RIBCAGE]
@@ -589,9 +589,9 @@ Monitor lizards were sponsored by the generous contributions of the Bay 12 commu
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:900:657:438:219:1900:2900] 40 kph
@@ -609,7 +609,7 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 	[CREATURE_TILE:'k'][COLOR:0:0:1]
 	[CREATURE_CLASS:POISONOUS]
 	[PETVALUE:200]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[FREQUENCY:20]
 	[NATURAL]
 	[CARNIVORE]
@@ -781,9 +781,9 @@ King cobras were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'K']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:charming hood]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:900:750:600:439:1900:2900] 20 kph
@@ -802,7 +802,7 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'o'][COLOR:6:0:1]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:100]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[TRAINABLE]
 	(BIOME:ANY_TROPICAL_FOREST)
 	(BIOME:SWAMP_MANGROVE)
@@ -936,9 +936,9 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'O']
 	[COLOR:6:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coat patterns]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:711:521:293:1900:2900] 30 kph
@@ -965,7 +965,7 @@ Jackals were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[GRASSTRAMPLE:0][NATURAL]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[BONECARN]
 	[PREFSTRING:resourceful nature]
 	[BODY:QUADRUPED_NECK:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES_FQ_REG:4TOES_RQ_REG:MOUTH:GENERIC_TEETH_WITH_LARGE_EYE_TEETH:RIBCAGE]
@@ -1089,9 +1089,9 @@ Jackals were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[CREATURE_TILE:'J']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:resourceful nature]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:549:366:183:1900:2900] 48 kph
@@ -1110,7 +1110,7 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[CURIOUSBEAST_EATER]
 	[CURIOUSBEAST_ITEM]
 	[GRASSTRAMPLE:0]
@@ -1240,9 +1240,9 @@ Capuchins were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'C']
 	[COLOR:7:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[PREFSTRING:social nature]
@@ -1261,7 +1261,7 @@ Sloths were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:50]
-	[BENIGN][PET_EXOTIC]
+	[BENIGN](PET_EXOTIC)
 	[GRASSTRAMPLE:0]
 	[LARGE_ROAMING][FREQUENCY:10]
 	[POPULATION_NUMBER:10:30]
@@ -1387,9 +1387,9 @@ Sloths were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:slow movement]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:7780:7508:7254:2925:8478:9233] 3 kph
@@ -1409,7 +1409,7 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:50]
-	[BENIGN][PET_EXOTIC]
+	[BENIGN](PET_EXOTIC)
 	[GRASSTRAMPLE:0]
 	[LARGE_ROAMING][FREQUENCY:10]
 	[POPULATION_NUMBER:20:50]
@@ -1537,9 +1537,9 @@ Spider monkeys were sponsored by the generous contributions of the Bay 12 commun
 	[CLUSTER_NUMBER:1:6]
 	[CREATURE_TILE:'M']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:long limbs]
 	[PREFSTRING:prehensile tails]
@@ -1558,7 +1558,7 @@ Pangolins were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'p'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:20]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[VISION_ARC:50:310]
 	[NATURAL]
 	(BIOME:GRASSLAND_TROPICAL)
@@ -1698,9 +1698,9 @@ Pangolins were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'P']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:overlapping scales]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:3512:2634:1756:878:4900:6900] 10 kph
@@ -1716,7 +1716,7 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 	[CREATURE_TILE:'s'][COLOR:0:0:1]
 	[CREATURE_CLASS:POISONOUS]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[FREQUENCY:30]
 	[NATURAL]
 	[CARNIVORE]
@@ -1895,9 +1895,9 @@ Black mambas were sponsored by the generous contributions of the Bay 12 communit
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:aggression]
 	[PREFSTRING:deadly bite]
@@ -1915,7 +1915,7 @@ Sloth bears were sponsored by the generous contributions of the Bay 12 community
 	[CREATURE_TILE:'B'][COLOR:0:0:1]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:250]
-	[PET]
+	(PET)
 	[NATURAL]
 	[LARGE_ROAMING][FREQUENCY:5]
 	[POPULATION_NUMBER:2:3]
@@ -2047,9 +2047,9 @@ Sloth bears were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'B']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:large floppy ears]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:711:521:293:1900:2900] 30 kph
@@ -2068,7 +2068,7 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:50]
-	[BENIGN][PET_EXOTIC]
+	[BENIGN](PET_EXOTIC)
 	[GRASSTRAMPLE:0]
 	[LARGE_ROAMING][FREQUENCY:10]
 	[POPULATION_NUMBER:10:20]
@@ -2195,9 +2195,9 @@ Aye-ayes were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'A']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:interesting fingers]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALKING_GAITS:900:703:505:274:1900:2900] 32 kph
@@ -2219,7 +2219,7 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
 	[CREATURE_CLASS:POISONOUS]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[FREQUENCY:30]
 	[NATURAL]
 	[CARNIVORE]
@@ -2394,9 +2394,9 @@ Bushmasters were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:deadly bite]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:3512:2634:1756:878:4900:6900] 10 kph
@@ -2413,7 +2413,7 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:python:pythons:python]
 	[CREATURE_TILE:'S'][COLOR:6:0:0]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[FREQUENCY:30]
 	[NATURAL]
 	[CARNIVORE]
@@ -2532,9 +2532,9 @@ Pythons were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:great size]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:3512:2634:1756:878:4900:6900] 10 kph
@@ -2559,7 +2559,7 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	[VISION_ARC:50:310]
 	[PREFSTRING:floppy noses]
 	[LARGE_ROAMING]
-	[BENIGN][MEANDERER][PET_EXOTIC]
+	[BENIGN][MEANDERER](PET_EXOTIC)
 	[STANDARD_GRAZER]
 	[BODY:QUADRUPED_NECK:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES_FQ_REG:3TOES_RQ_REG:MOUTH:GENERIC_TEETH:RIBCAGE]
 	[NATURAL]
@@ -2720,9 +2720,9 @@ Tapirs were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'T']
 	[COLOR:7:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:floppy noses]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:703:505:274:1900:2900] 32 kph
@@ -2739,7 +2739,7 @@ Impalas were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'i'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[STANDARD_GRAZER]
 	[VISION_ARC:50:310]
 	[PREFSTRING:mighty leaps]
@@ -2871,9 +2871,9 @@ Impalas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'I']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:mighty leaps]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:438:292:146:1900:2900] 60 kph
@@ -2892,7 +2892,7 @@ Aardvarks were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'a'][COLOR:7:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[NATURAL]
 	(BIOME:SHRUBLAND_TROPICAL)
 	(BIOME:SAVANNA_TROPICAL)
@@ -3024,9 +3024,9 @@ Aardvarks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'A']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:long ears]
 	[PREFSTRING:snout]
@@ -3046,7 +3046,7 @@ Lion tamarins were sponsored by the generous contributions of the Bay 12 communi
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:10]
 	[FREQUENCY:100][VERMIN_GROUNDER]
-	[BENIGN][SMALL_REMAINS][NATURAL][PET_EXOTIC]
+	[BENIGN][SMALL_REMAINS][NATURAL](PET_EXOTIC)
 	[NOT_BUTCHERABLE]
 	(BIOME:FOREST_TROPICAL_MOIST_BROADLEAF)
 	[POPULATION_NUMBER:250:500]
@@ -3168,9 +3168,9 @@ Lion tamarins were sponsored by the generous contributions of the Bay 12 communi
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'L']
 	[COLOR:6:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:small size]
 	[PREFSTRING:manes]

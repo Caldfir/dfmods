@@ -99,9 +99,9 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:5]
 	[CREATURE_TILE:'D']
 	[COLOR:3:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:750:600:439:1900:2900] 20 kph
@@ -207,9 +207,9 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:750:600:439:1900:2900] 20 kph
@@ -311,9 +311,9 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'G']
 	[COLOR:2:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:chirping]
 	[PREFSTRING:great leaps]
@@ -330,7 +330,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[CASTE_NAME:bark scorpion:bark scorpions:bark scorpion]
 	[CREATURE_TILE:249][COLOR:6:0:1]
 	[CARNIVORE]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PARALYZEIMMUNE]
 	[NATURAL]
 	(BIOME:ANY_DESERT)
@@ -477,9 +477,9 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:pincers]
 	[PREFSTRING:stinging tail]
@@ -586,9 +586,9 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:2:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:predatory nature]
 	[PREFSTRING:grasping legs]
@@ -695,9 +695,9 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'T']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:ability to expand]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALKING_GAITS:900:750:600:439:1900:2900] 20 kph
@@ -802,9 +802,9 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'L']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:ability to infest]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALKING_GAITS:900:750:600:439:1900:2900] 20 kph
@@ -910,9 +910,9 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'T']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:prolific breeding]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:750:600:439:1900:2900] 20 kph
@@ -930,7 +930,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 	[PETVALUE:10]
 	[VERMIN_SOIL][FREQUENCY:100][VERMIN_HATEABLE]
 	[SMALL_REMAINS][VERMIN_NOTRAP][NOBONES]
-	[NATURAL][PET]
+	[NATURAL](PET)
 	[BENIGN][NOT_BUTCHERABLE]
 	(BIOME:NOT_FREEZING)
 	[POPULATION_NUMBER:250:500]
@@ -999,9 +999,9 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:slime trails]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
@@ -1108,9 +1108,9 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:high-pitched buzz]
 	[PREFSTRING:ability to feast on blood]
@@ -1129,7 +1129,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[CASTE_NAME:jumping spider:jumping spiders:jumping spider]
 	[CREATURE_TILE:250][COLOR:0:0:1]
 	[CARNIVORE]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[NATURAL]
 	(BIOME:NOT_FREEZING)
 	[VERMIN_GROUNDER][VERMIN_HATEABLE]
@@ -1216,9 +1216,9 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'J']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:striking appearance]
 	[PREFSTRING:ability to leap]
@@ -1391,9 +1391,9 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:4:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:predatory nature]
 	[PREFSTRING:striking coloration]
@@ -1410,7 +1410,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[CASTE_NAME:brown recluse spider:brown recluse spiders:brown recluse spider]
 	[CREATURE_TILE:249][COLOR:6:0:0]
 	[CARNIVORE]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[WEBIMMUNE]
 	[NATURAL]
 	(BIOME:FOREST_TEMPERATE_BROADLEAF)
@@ -1553,9 +1553,9 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:venomous bite]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALKING_GAITS:900:750:600:439:1900:2900] 20 kph
@@ -1573,7 +1573,7 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	[PETVALUE:10]
 	[VERMIN_SOIL][FREQUENCY:100][VERMIN_HATEABLE]
 	[SMALL_REMAINS][VERMIN_NOTRAP][NOBONES]
-	[BENIGN][NATURAL][PET]
+	[BENIGN][NATURAL](PET)
 	[NOT_BUTCHERABLE]
 	(BIOME:NOT_FREEZING)
 	[POPULATION_NUMBER:250:500]
@@ -1649,9 +1649,9 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'S']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:shells]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph

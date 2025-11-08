@@ -10,7 +10,7 @@ creature_large_riverlake
 	[CREATURE_TILE:'H'][COLOR:7:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:400]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[AMPHIBIOUS]
 	[LARGE_ROAMING]
 	(BIOME:RIVER_TROPICAL_SALTWATER)
@@ -137,9 +137,9 @@ creature_large_riverlake
 	[CLUSTER_NUMBER:3:7]
 	[CREATURE_TILE:'H']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:strength]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:711:521:293:1900:2900] 30 kph
@@ -510,7 +510,7 @@ Platypuses were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[CREATURE_CLASS:POISONOUS]
 	[PETVALUE:10]
-	[PET]
+	(PET)
 	[NATURAL]
 	[AMPHIBIOUS][UNDERSWIM]
 	[LARGE_ROAMING]
@@ -716,9 +716,9 @@ Platypuses were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'P']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[PREFSTRING:great size]
 	[PREFSTRING:bizarre appearance]
 	[PREFSTRING:venomous spurs]

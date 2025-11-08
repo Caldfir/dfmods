@@ -16,7 +16,7 @@ Otters were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:25]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:4]
@@ -113,7 +113,7 @@ Otters were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[NATURAL]
 	[PETVALUE:25]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:5:10]
@@ -244,9 +244,9 @@ Otters were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:4]
 	[CREATURE_TILE:'O']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:playfulness]
 	[PREFSTRING:big fluffy faces]
@@ -267,7 +267,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[PETVALUE:25]
 	[LARGE_ROAMING]
 	[AMPHIBIOUS]
-	[NATURAL][PET_EXOTIC]
+	[NATURAL](PET_EXOTIC)
 	[CARNIVORE]
 	(BIOME:RIVER_TEMPERATE_FRESHWATER)
 	(BIOME:RIVER_TEMPERATE_BRACKISHWATER)
@@ -357,7 +357,7 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[CREATURE_TILE:'T'][COLOR:2:0:0]
 	[PETVALUE:25]
 	[AMPHIBIOUS]
-	[NATURAL][PET_EXOTIC]
+	[NATURAL](PET_EXOTIC)
 	[CARNIVORE]
 	[LARGE_ROAMING]
 	(BIOME:RIVER_TEMPERATE_FRESHWATER)
@@ -482,9 +482,9 @@ Snapping turtles were sponsored by the generous contributions of the Bay 12 comm
 	[POPULATION_NUMBER:25:50]
 	[CREATURE_TILE:'T']
 	[COLOR:2:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:vicious bites]
 	[PREFSTRING:long necks]
@@ -504,7 +504,7 @@ Beavers were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'b'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:25]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[NATURAL]
 	(BIOME:ANY_TEMPERATE_LAKE)
 	(BIOME:ANY_TEMPERATE_RIVER)
@@ -635,9 +635,9 @@ Beavers were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:3:10]
 	[CREATURE_TILE:'B']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:dams]
 	[PREFSTRING:tree-felling habits]
@@ -660,7 +660,7 @@ Leeches were sponsored by the generous contributions of the Bay 12 community.
 	[VERMIN_SOIL]
 	[FREQUENCY:100][VERMIN_HATEABLE]
 	[SMALL_REMAINS][VERMIN_NOTRAP][NOBONES]
-	[NATURAL][PET_EXOTIC]
+	[NATURAL](PET_EXOTIC)
 	[NOT_BUTCHERABLE]
 	(BIOME:ANY_POOL)
 	(BIOME:ANY_LAKE)
@@ -743,9 +743,9 @@ Leeches were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'L']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:feeding habits]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph
@@ -763,7 +763,7 @@ Axolotls were sponsored by the generous contributions of the Bay 12 community.
 	[CASTE_NAME:axolotl:axolotls:axolotl]
 	[CREATURE_TILE:249][COLOR:5:0:0]
 	[PETVALUE:10]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[VERMIN_GROUNDER][FREQUENCY:100]
 	[SMALL_REMAINS]
 	[AMPHIBIOUS][UNDERSWIM]
@@ -869,9 +869,9 @@ Axolotls were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'A']
 	[COLOR:5:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:gills]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph
@@ -888,7 +888,7 @@ Minks were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'m'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:50]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[NATURAL]
 	(BIOME:ANY_TEMPERATE_LAKE)
 	(BIOME:ANY_TEMPERATE_RIVER)
@@ -1018,9 +1018,9 @@ Minks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'M']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:long bodies]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph
@@ -1039,7 +1039,7 @@ Pond turtles were sponsored by the generous contributions of the Bay 12 communit
 	[PETVALUE:10]
 	[VERMIN_FISH][FISHITEM]
 	[AMPHIBIOUS][SMALL_REMAINS][NO_WINTER]
-	[BENIGN][NATURAL][PET_EXOTIC]
+	[BENIGN][NATURAL](PET_EXOTIC)
 	[NOT_BUTCHERABLE]
 	[CARNIVORE]
 	(BIOME:ANY_POOL)
@@ -1158,9 +1158,9 @@ Pond turtles were sponsored by the generous contributions of the Bay 12 communit
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'T']
 	[COLOR:2:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:shells]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:750:600:439:1900:2900] 20 kph

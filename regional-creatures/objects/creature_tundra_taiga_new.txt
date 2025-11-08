@@ -14,7 +14,7 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'s'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:25]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[BONECARN]
 	[NATURAL]
 	(BIOME:FOREST_TAIGA)
@@ -145,9 +145,9 @@ Stoats were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:ability to take down large prey]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph
@@ -167,7 +167,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'l'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:75]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[TRAINABLE]
 	(BIOME:FOREST_TAIGA)
 	[LARGE_ROAMING][FREQUENCY:5]
@@ -298,9 +298,9 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'L']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:ear tufts]
 	[APPLY_CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS:900:657:438:219:1900:2900] 40 kph

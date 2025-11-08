@@ -154,9 +154,9 @@ Octopuses were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'O']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:intelligence]
 	[PREFSTRING:many arms]
@@ -264,9 +264,9 @@ Crabs were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
 	[COLOR:4:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:pincers]
 	[PREFSTRING:sideways walk]
@@ -286,7 +286,7 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[CREATURE_TILE:'L'][COLOR:0:0:1]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:350]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
 	(BIOME:OCEAN_ARCTIC)
@@ -397,9 +397,9 @@ Leopard seals were sponsored by the generous contributions of the Bay 12 communi
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'L']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:fierce nature]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
@@ -558,9 +558,9 @@ Cuttlefish were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:ability to change color]
 	[PREFSTRING:distinctive pupils]
@@ -692,9 +692,9 @@ Orcas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:3:9]
 	[CREATURE_TILE:'O']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[PREFSTRING:great jumps]
@@ -781,9 +781,9 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:250:500]
 	[CREATURE_TILE:'S']
 	[COLOR:4:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:squishy texture]
 
@@ -881,9 +881,9 @@ Horseshoe crabs were sponsored by the generous contributions of the Bay 12 commu
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'C']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:ability to hide in sand]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:6561:6115:5683:1755:7456:8567] 5 kph
@@ -1017,9 +1017,9 @@ Sperm whales were sponsored by the generous contributions of the Bay 12 communit
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'W']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:teeth]
 	[PREFSTRING:vengeful nature]
@@ -1037,7 +1037,7 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[CREATURE_TILE:'S'][COLOR:6:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:400]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
 	(BIOME:OCEAN_ARCTIC)
@@ -1152,9 +1152,9 @@ Elephant seals were sponsored by the generous contributions of the Bay 12 commun
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'S']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:large floppy noses]
 	[PREFSTRING:great size]
@@ -1172,7 +1172,7 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_TILE:'H'][COLOR:7:0:0]
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:100]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[LARGE_ROAMING]
 	[AMPHIBIOUS][UNDERSWIM]
 	(BIOME:OCEAN_ARCTIC)
@@ -1283,9 +1283,9 @@ Harp seals were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:3:7]
 	[CREATURE_TILE:'H']
 	[COLOR:7:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:adorable pups]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
@@ -1408,9 +1408,9 @@ Nautiluses were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'N']
 	[COLOR:4:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:shells]
 	[PREFSTRING:many tentacles]

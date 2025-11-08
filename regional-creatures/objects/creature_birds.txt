@@ -8,7 +8,7 @@ creature_birds
 	[CASTE_NAME:blue jay:blue jays:blue jay]
 	[GENERAL_CHILD_NAME:blue jay hatchling:blue jay hatchlings]
 	[CREATURE_TILE:249][COLOR:1:0:1]
-	[PETVALUE:30][NATURAL][PET]
+	[PETVALUE:30][NATURAL](PET)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -151,9 +151,9 @@ creature_birds
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'B']
 	[COLOR:1:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:471:314:157:1900:2900] 56 kph
@@ -168,7 +168,7 @@ creature_birds
 	[CASTE_NAME:cardinal:cardinals:cardinal]
 	[GENERAL_CHILD_NAME:cardinal hatchling:cardinal hatchlings]
 	[CREATURE_TILE:249][COLOR:4:0:1]
-	[PETVALUE:30][NATURAL][PET]
+	[PETVALUE:30][NATURAL](PET)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -310,9 +310,9 @@ creature_birds
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'C']
 	[COLOR:4:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:471:314:157:1900:2900] 56 kph
@@ -327,7 +327,7 @@ creature_birds
 	[CASTE_NAME:grackle:grackles:grackle]
 	[GENERAL_CHILD_NAME:grackle hatchling:grackle hatchlings]
 	[CREATURE_TILE:249][COLOR:0:0:1]
-	[PETVALUE:30][NATURAL][PET]
+	[PETVALUE:30][NATURAL](PET)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	[VERMIN_GROUNDER][FREQUENCY:100]
@@ -466,9 +466,9 @@ creature_birds
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'G']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:raucous calls]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:471:314:157:1900:2900] 56 kph
@@ -483,7 +483,7 @@ creature_birds
 	[CASTE_NAME:oriole:orioles:oriole]
 	[GENERAL_CHILD_NAME:oriole hatchling:oriole hatchlings]
 	[CREATURE_TILE:249][COLOR:6:0:1]
-	[PETVALUE:30][NATURAL][PET]
+	[PETVALUE:30][NATURAL](PET)
 	(BIOME:FOREST_TEMPERATE_BROADLEAF)
 	[VERMIN_GROUNDER][FREQUENCY:100]
 	[POPULATION_NUMBER:250:500]
@@ -621,9 +621,9 @@ creature_birds
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'O']
 	[COLOR:6:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:471:314:157:1900:2900] 56 kph
@@ -638,7 +638,7 @@ creature_birds
 	[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[GENERAL_CHILD_NAME:red-winged blackbird hatchling:red-winged blackbird hatchlings]
 	[CREATURE_TILE:249][COLOR:0:0:1]
-	[PETVALUE:30][NATURAL][PET]
+	[PETVALUE:30][NATURAL](PET)
 	(BIOME:MARSH_TEMPERATE_FRESHWATER)
 	(BIOME:MARSH_TEMPERATE_SALTWATER)
 	[VERMIN_GROUNDER][FREQUENCY:100]
@@ -777,9 +777,9 @@ creature_birds
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'R']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[PREFSTRING:coloration]
 	[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:471:314:157:1900:2900] 56 kph
@@ -1131,9 +1131,9 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:'P']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[PREFSTRING:enormous size]
 	[PREFSTRING:coloration]
 	[PREFSTRING:waddling gait]
@@ -1159,7 +1159,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[LARGE_ROAMING]
 	[PETVALUE:25]
 	[BENIGN]
-	[PET]
+	(PET)
 	[FLIER]
 	[BONECARN]
 	[DIVE_HUNTS_VERMIN]
@@ -1312,9 +1312,9 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[DESCRIPTION:A large bird monster that is the same shape as a peregrine falcon.]
 	[CREATURE_TILE:'P']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:500]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:giant tiercel peregrine:giant tiercel peregrines:giant tiercel peregrine]
@@ -1347,7 +1347,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_ROAMING]
 	[PETVALUE:10]
 	[BENIGN][MEANDERER]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[GOBBLE_VERMIN_CLASS:EDIBLE_GROUND_BUG]
 	[NOCTURNAL]
 	[CREPUSCULAR]
@@ -1469,8 +1469,8 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'K']
 	[COLOR:6:0:0]
-	[PET_EXOTIC]
-	[MOUNT_EXOTIC]
+	(PET_EXOTIC)
+	(MOUNT_EXOTIC)
 	[PETVALUE:1000]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
@@ -1506,7 +1506,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[LARGE_ROAMING]
 	[PETVALUE:100]
 	[BENIGN][MEANDERER]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[DIURNAL]
 	[HOMEOTHERM:10067]
 	[APPLY_CREATURE_VARIATION:STANDARD_WALKING_GAITS:900:657:438:219:1900:2900] 40 kph, NO DATA
@@ -1652,9 +1652,9 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:10] should be seasonal
 	[CREATURE_TILE:'O']
 	[COLOR:0:0:1]
-	[PET_EXOTIC]
+	(PET_EXOTIC)
 	[PETVALUE:1000]
-	[MOUNT_EXOTIC]
+	(MOUNT_EXOTIC)
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:giant ostrich cock:giant ostrich cocks:giant ostrich cock]
