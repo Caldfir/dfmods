@@ -1,4 +1,4 @@
-[ID:regional_plants]
+[ID:region_life_xplants]
 [NUMERIC_VERSION:1]
 [DISPLAYED_VERSION:0.01]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]

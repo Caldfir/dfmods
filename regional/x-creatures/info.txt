@@ -1,4 +1,4 @@
-[ID:regional_creatures]
+[ID:region_life_xcreatures]
 [NUMERIC_VERSION:2]
 [DISPLAYED_VERSION:0.02]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
