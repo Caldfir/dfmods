@@ -1,0 +1,11 @@
+[ID:re_replace_base]
+[NUMERIC_VERSION:6]
+[DISPLAYED_VERSION:0.06]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:6]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.06]
+[AUTHOR:Caldfir]
+[NAME:ReREPLACE]
+[CONFLICTS_WITH_ID:vanilla_creatures]
+[CONFLICTS_WITH_ID:vanilla_plants]
+[DESCRIPTION:Base mod for regional creatures and plants.]
+
