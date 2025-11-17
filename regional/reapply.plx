@@ -14,10 +14,9 @@ while (<>)
   if (s/<<(PLANT|CREATURE):([^>]*)>>/\n[SELECT_$1:$2]/) { $ok = 1; }
   if (s/<<(BIOME:\w*)>>/[$1]/g) { $ok = 1; }
   if (s/<<(COMMON_DOMESTIC)>>/[$1]/g) { $ok = 1; }
-  if (s/<<(WAGON_PULLER)>>/[$1]/g) { $ok = 1; }
-  if (s/<<(PACK_ANIMAL)>>/[$1]/g) { $ok = 1; }
-  if (s/<<(PET\w*)>>/[$1]/g) { $ok = 1; }
-  if (s/<<(MOUNT\w*)>>/[$1]/g) { $ok = 1; }
+  if (s/<<(WAGON_PULLER|PACK_ANIMAL)>>/[$1]/g) { $ok = 1; }
+  if (s/<<((PET|MOUNT)\w*)>>/[$1]/g) { $ok = 1; }
+  if (s/<<(WET|DRY)>>/[$1]/g) { $ok = 1; }
   if (s/<<(\w*MEGABEAST)>>/[$1]/g) { $ok = 1; }
   if (not $ok) { next; }
   s/<<[^>]*>>//g;
