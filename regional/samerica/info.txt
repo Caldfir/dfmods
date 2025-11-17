@@ -4,7 +4,7 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.01]
 [AUTHOR:Caldfir]
-[NAME:Life-Region: +South-America]
+[NAME:Life-Region+South-America]
 [REQUIRES_ID_BEFORE_ME:region_life_xcreatures]
 [REQUIRES_ID_BEFORE_ME:region_life_xplants]
 [DESCRIPTION:Enables creatures and plants available in South-America.]
