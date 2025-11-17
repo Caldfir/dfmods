@@ -1,4 +1,6 @@
 
+creature_all
+
 [OBJECT:CREATURE]
 
 creature_amphibians.txt

@@ -1,4 +1,6 @@
 
+plant_all
+
 [OBJECT:PLANT]
 
 plant_crops.txt
@@ -1216,3 +1218,4 @@ plant_standard.txt
   [BIOME:FOREST_TROPICAL_CONIFER]
   [BIOME:SWAMP_TROPICAL_SALTWATER]
   [BIOME:MARSH_TROPICAL_SALTWATER]
+
