@@ -1052,7 +1052,7 @@ Uristocrat did the density values.
 	[ROOT_RADIUS:3]
 	[STANDARD_TILE_NAMES]
 	[PREFSTRING:majesty]
-	[DRY]
+	[WET][DRY]
 	(BIOME:FOREST_TEMPERATE_CONIFER)
 	(BIOME:FOREST_TROPICAL_CONIFER)
 	[SAPLING]
@@ -2109,7 +2109,7 @@ Uristocrat did the density values.
 	[STANDARD_TILE_NAMES]
 	[PREFSTRING:catkins]
 	[PREFSTRING:autumn coloration]
-	[DRY]
+	[WET](DRY)
 	(BIOME:ANY_TEMPERATE_BROADLEAF)
 	[SAPLING]
 	[GROWTH:LEAVES]
@@ -2592,7 +2592,7 @@ Uristocrat did the density values.
 	[ROOT_RADIUS:3]
 	[STANDARD_TILE_NAMES]
 	[PREFSTRING:leaves]
-	[DRY]
+	[WET](DRY)
 	(BIOME:ANY_TROPICAL)
 	[SAPLING]
 	[GROWTH:LEAVES]

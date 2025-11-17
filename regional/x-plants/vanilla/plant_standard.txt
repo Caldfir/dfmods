@@ -2109,7 +2109,7 @@ Uristocrat did the density values.
 	[STANDARD_TILE_NAMES]
 	[PREFSTRING:catkins]
 	[PREFSTRING:autumn coloration]
-	[DRY]
+	(DRY)
 	[BIOME:ANY_TEMPERATE_BROADLEAF]
 	[SAPLING]
 	[GROWTH:LEAVES]

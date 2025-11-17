@@ -425,7 +425,7 @@ creature_domestic.txt
 
 [SELECT_CREATURE:REINDEER]
 	[BIOME:TUNDRA]
-	[BIOME:TAIGA]
+	[BIOME:FOREST_TAIGA]
 	[PET] not domesticated
 
 [SELECT_CREATURE:BIRD_GOOSE]*Anser
