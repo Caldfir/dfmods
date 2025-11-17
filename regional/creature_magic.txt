@@ -1,4 +1,8 @@
 
+creature_magic
+
+[OBJECT:CREATURE]
+
 creature_large_mountain.txt
 
 [SELECT_CREATURE:GNOME_MOUNTAIN]
@@ -328,4 +332,3 @@ creature_subterranean.txt
 
 [SELECT_CREATURE:ELEMENTMAN_MUD]
   [BIOME:SUBTERRANEAN_WATER]
-
