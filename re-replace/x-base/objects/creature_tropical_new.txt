@@ -178,6 +178,7 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
 	[GRASSTRAMPLE:0][NATURAL]
 	[PETVALUE:50]
 	(PET_EXOTIC)
+	[TRAINABLE]
 	[BONECARN]
 	[PREFSTRING:distinctive laugh]
 	[PREFSTRING:coordinated hunting]
@@ -803,7 +804,7 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:100]
 	(PET_EXOTIC)
-	[TRAINABLE]
+	[TRAINABLE_HUNTING]
 	(BIOME:ANY_TROPICAL_FOREST)
 	(BIOME:SWAMP_MANGROVE)
 	(BIOME:SAVANNA_TROPICAL)

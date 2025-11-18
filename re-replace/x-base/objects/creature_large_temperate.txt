@@ -167,6 +167,7 @@ creature_large_temperate
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:300]
 	(PET)
+  [TRAINABLE]
 	[NATURAL]
 	[LARGE_ROAMING][FREQUENCY:5]
 	[POPULATION_NUMBER:2:3]
@@ -936,6 +937,7 @@ creature_large_temperate
 	[CARNIVORE][NATURAL]
 	[PETVALUE:100]
 	(PET_EXOTIC)
+  [TRAINABLE_HUNTING]
 	[LARGE_PREDATOR][MEANDERER]
 	[GRASSTRAMPLE:0]
 	[PREFSTRING:cunning]
@@ -1088,6 +1090,7 @@ creature_large_temperate
 	[GRASSTRAMPLE:0][NATURAL]
 	[PETVALUE:50]
 	(PET_EXOTIC)
+  [TRAINABLE]
 	[BONECARN]
 	[PREFSTRING:cunning]
 	[BODY:QUADRUPED_NECK:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES_FQ_REG:4TOES_RQ_REG:MOUTH:TONGUE:GENERIC_TEETH_WITH_LARGE_EYE_TEETH:RIBCAGE]
@@ -2251,7 +2254,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 
 	Silophant - "one of these once bit my sister"
 	"Beware the room with a moose."
-	A møøse once bit my sister. / Mynd you, møøse bites kan be pretty nasti...
+	A mï¿½ï¿½se once bit my sister. / Mynd you, mï¿½ï¿½se bites kan be pretty nasti...
 
 [CREATURE:MOOSE]
 	[DESCRIPTION:A large mammal with great antlers and a large nose. It lives in temperate forests.]

@@ -168,7 +168,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
 	[CREATURE_CLASS:MAMMAL]
 	[PETVALUE:75]
 	(PET_EXOTIC)
-	[TRAINABLE]
+	[TRAINABLE_HUNTING]
 	(BIOME:FOREST_TAIGA)
 	[LARGE_ROAMING][FREQUENCY:5]
 	[POPULATION_NUMBER:2:3]
