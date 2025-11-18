@@ -1,0 +1,198 @@
+From 00e9f1faf14ceb85f0ae4e6dacce25e24c5b59a5 Mon Sep 17 00:00:00 2001
+From: Tim Aitken <aitken.tim@gmail.com>
+Date: Mon, 17 Nov 2025 16:20:39 -0800
+Subject: [PATCH] make a few more carnivora TRAINABLE
+
+---
+ re-replace/x-base/objects/creature_large_temperate.txt  | 5 ++++-
+ re-replace/x-base/objects/creature_large_tropical.txt   | 4 ++--
+ re-replace/x-base/objects/creature_next_underground.txt | 2 +-
+ re-replace/x-base/objects/creature_standard.txt         | 7 +++++--
+ re-replace/x-base/objects/creature_temperate_new.txt    | 3 ++-
+ re-replace/x-base/objects/creature_tropical_new.txt     | 3 ++-
+ re-replace/x-base/objects/creature_tundra_taiga_new.txt | 2 +-
+ re-replace/z-all/objects/creature_all.txt               | 1 +
+ 8 files changed, 18 insertions(+), 9 deletions(-)
+
+diff --git a/re-replace/x-base/objects/creature_large_temperate.txt b/re-replace/x-base/objects/creature_large_temperate.txt
+index 545eae3..5ab113d 100644
+--- a/re-replace/x-base/objects/creature_large_temperate.txt
++++ b/re-replace/x-base/objects/creature_large_temperate.txt
+@@ -167,6 +167,7 @@ creature_large_temperate
+ 	[CREATURE_CLASS:MAMMAL]
+ 	[PETVALUE:300]
+ 	(PET)
++  [TRAINABLE]
+ 	[NATURAL]
+ 	[LARGE_ROAMING][FREQUENCY:5]
+ 	[POPULATION_NUMBER:2:3]
+@@ -936,6 +937,7 @@ creature_large_temperate
+ 	[CARNIVORE][NATURAL]
+ 	[PETVALUE:100]
+ 	(PET_EXOTIC)
++  [TRAINABLE_HUNTING]
+ 	[LARGE_PREDATOR][MEANDERER]
+ 	[GRASSTRAMPLE:0]
+ 	[PREFSTRING:cunning]
+@@ -1088,6 +1090,7 @@ creature_large_temperate
+ 	[GRASSTRAMPLE:0][NATURAL]
+ 	[PETVALUE:50]
+ 	(PET_EXOTIC)
++  [TRAINABLE]
+ 	[BONECARN]
+ 	[PREFSTRING:cunning]
+ 	[BODY:QUADRUPED_NECK:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES_FQ_REG:4TOES_RQ_REG:MOUTH:TONGUE:GENERIC_TEETH_WITH_LARGE_EYE_TEETH:RIBCAGE]
+@@ -2251,7 +2254,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
+ 
+ 	Silophant - "one of these once bit my sister"
+ 	"Beware the room with a moose."
+-	A møøse once bit my sister. / Mynd you, møøse bites kan be pretty nasti...
++	A mï¿½ï¿½se once bit my sister. / Mynd you, mï¿½ï¿½se bites kan be pretty nasti...
+ 
+ [CREATURE:MOOSE]
+ 	[DESCRIPTION:A large mammal with great antlers and a large nose. It lives in temperate forests.]
+diff --git a/re-replace/x-base/objects/creature_large_tropical.txt b/re-replace/x-base/objects/creature_large_tropical.txt
+index 1763233..41f3979 100644
+--- a/re-replace/x-base/objects/creature_large_tropical.txt
++++ b/re-replace/x-base/objects/creature_large_tropical.txt
+@@ -14,7 +14,7 @@ creature_large_tropical
+ 	[STANDARD_GRAZER] don't have browsing trees yet
+ 	(PACK_ANIMAL)
+ 	(MOUNT_EXOTIC)
+-	[TRAINABLE]
++	[TRAINABLE_WAR]
+ 	[LARGE_ROAMING]
+ 	(BIOME:ANY_TROPICAL_FOREST)
+ 	(BIOME:SHRUBLAND_TROPICAL)
+@@ -939,7 +939,7 @@ creature_large_tropical
+ 	[CREATURE_CLASS:MAMMAL]
+ 	[PETVALUE:200]
+ 	(PET_EXOTIC)
+-	[TRAINABLE]
++	[TRAINABLE_HUNTING]
+ 	(BIOME:SAVANNA_TROPICAL)
+ 	(BIOME:GRASSLAND_TROPICAL)
+ 	(BIOME:SHRUBLAND_TROPICAL)
+diff --git a/re-replace/x-base/objects/creature_next_underground.txt b/re-replace/x-base/objects/creature_next_underground.txt
+index 436bc7a..f8aeb63 100644
+--- a/re-replace/x-base/objects/creature_next_underground.txt
++++ b/re-replace/x-base/objects/creature_next_underground.txt
+@@ -1912,7 +1912,7 @@ creature_next_underground
+ 	[CREATURE_TILE:'D'][COLOR:7:0:1]
+ 	[PETVALUE:10000]
+ 	(PET_EXOTIC)
+-	[TRAINABLE]
++	[TRAINABLE_WAR]
+ 	[EVIL]
+ 	[LARGE_ROAMING]
+ 	(BIOME:SUBTERRANEAN_CHASM)
+diff --git a/re-replace/x-base/objects/creature_standard.txt b/re-replace/x-base/objects/creature_standard.txt
+index 28ea085..2fdd510 100644
+--- a/re-replace/x-base/objects/creature_standard.txt
++++ b/re-replace/x-base/objects/creature_standard.txt
+@@ -2219,7 +2219,7 @@ creature_standard
+ 	[CHILD:10][CHILDNAME:dragon hatchling:dragon hatchlings]
+ 	[PETVALUE:10000]
+ 	(PET_EXOTIC)
+-	[TRAINABLE]
++	[TRAINABLE_WAR]
+ 	(MOUNT_EXOTIC)
+ 	(BIOME:ANY_LAND)
+ 	[FREQUENCY:5]
+@@ -3942,6 +3942,8 @@ creature_standard
+ 	[CREATURE_TILE:'w'][COLOR:7:0:1]
+ 	[CREATURE_CLASS:MAMMAL]
+ 	[PETVALUE:50]
++	(PET_EXOTIC)
++  [TRAINABLE]
+ 	[LARGE_PREDATOR][MEANDERER]
+ 	[LARGE_ROAMING][FREQUENCY:10]
+ 	(BIOME:GLACIER)
+@@ -5083,6 +5085,7 @@ creature_standard
+ 	[CREATURE_TILE:'H'][COLOR:4:0:1]
+ 	[PETVALUE:10000]
+ 	(PET_EXOTIC)
++  [TRAINABLE_WAR]
+ 	(BIOME:ANY_LAND)
+ 	[FREQUENCY:5]
+ 	[FANCIFUL]
+@@ -5618,8 +5621,8 @@ creature_standard
+ 	[CREATURE_TILE:'R'][COLOR:7:0:1]
+ 	[PETVALUE:10000]
+ 	(PET_EXOTIC)
+-	[TRAINABLE]
+ 	(MOUNT_EXOTIC)
++	[TRAINABLE_WAR]
+ 	(BIOME:MOUNTAIN)
+ 	[FREQUENCY:5]
+ 	[FANCIFUL]
+diff --git a/re-replace/x-base/objects/creature_temperate_new.txt b/re-replace/x-base/objects/creature_temperate_new.txt
+index baf6dcb..89334b6 100644
+--- a/re-replace/x-base/objects/creature_temperate_new.txt
++++ b/re-replace/x-base/objects/creature_temperate_new.txt
+@@ -1511,7 +1511,7 @@ Bobcats were sponsored by the generous contributions of the Bay 12 community.
+ 	[CREATURE_CLASS:MAMMAL]
+ 	[PETVALUE:75]
+ 	(PET_EXOTIC)
+-	[TRAINABLE]
++	[TRAINABLE_HUNTING]
+ 	(BIOME:ANY_FOREST)
+ 	(BIOME:ANY_DESERT)
+ 	(BIOME:SWAMP_TROPICAL_FRESHWATER)
+@@ -2946,6 +2946,7 @@ Dingoes were sponsored by the generous contributions of the Bay 12 community.
+ 	[GRASSTRAMPLE:0][NATURAL]
+ 	[PETVALUE:50]
+ 	(PET_EXOTIC)
++	[TRAINABLE]
+ 	[BONECARN]
+ 	[PREFSTRING:coloration]
+ 	[BODY:QUADRUPED_NECK:TAIL:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES_FQ_REG:4TOES_RQ_REG:MOUTH:GENERIC_TEETH_WITH_LARGE_EYE_TEETH:RIBCAGE]
+diff --git a/re-replace/x-base/objects/creature_tropical_new.txt b/re-replace/x-base/objects/creature_tropical_new.txt
+index c4c9641..410b659 100644
+--- a/re-replace/x-base/objects/creature_tropical_new.txt
++++ b/re-replace/x-base/objects/creature_tropical_new.txt
+@@ -178,6 +178,7 @@ Hyenas were sponsored by the generous contributions of the Bay 12 community.
+ 	[GRASSTRAMPLE:0][NATURAL]
+ 	[PETVALUE:50]
+ 	(PET_EXOTIC)
++	[TRAINABLE]
+ 	[BONECARN]
+ 	[PREFSTRING:distinctive laugh]
+ 	[PREFSTRING:coordinated hunting]
+@@ -803,7 +804,7 @@ Ocelots were sponsored by the generous contributions of the Bay 12 community.
+ 	[CREATURE_CLASS:MAMMAL]
+ 	[PETVALUE:100]
+ 	(PET_EXOTIC)
+-	[TRAINABLE]
++	[TRAINABLE_HUNTING]
+ 	(BIOME:ANY_TROPICAL_FOREST)
+ 	(BIOME:SWAMP_MANGROVE)
+ 	(BIOME:SAVANNA_TROPICAL)
+diff --git a/re-replace/x-base/objects/creature_tundra_taiga_new.txt b/re-replace/x-base/objects/creature_tundra_taiga_new.txt
+index 12e10b6..857ef44 100644
+--- a/re-replace/x-base/objects/creature_tundra_taiga_new.txt
++++ b/re-replace/x-base/objects/creature_tundra_taiga_new.txt
+@@ -168,7 +168,7 @@ Lynx were sponsored by the generous contributions of the Bay 12 community.
+ 	[CREATURE_CLASS:MAMMAL]
+ 	[PETVALUE:75]
+ 	(PET_EXOTIC)
+-	[TRAINABLE]
++	[TRAINABLE_HUNTING]
+ 	(BIOME:FOREST_TAIGA)
+ 	[LARGE_ROAMING][FREQUENCY:5]
+ 	[POPULATION_NUMBER:2:3]
+diff --git a/re-replace/z-all/objects/creature_all.txt b/re-replace/z-all/objects/creature_all.txt
+index 9a66be4..339303e 100644
+--- a/re-replace/z-all/objects/creature_all.txt
++++ b/re-replace/z-all/objects/creature_all.txt
+@@ -3105,6 +3105,7 @@ creature_standard.txt
+ [SELECT_CREATURE:WOLF_ICE]
+   [BIOME:GLACIER]
+   [BIOME:TUNDRA]
++	[PET_EXOTIC]
+ 
+ [SELECT_CREATURE:FAIRY]
+   [BIOME:ALL_MAIN]
+-- 
+2.43.0
+
