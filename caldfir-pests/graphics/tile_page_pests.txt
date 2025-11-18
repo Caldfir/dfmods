@@ -1,0 +1,14 @@
+tile_page_pests
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:CREATURES_PESTS]
+  [FILE:images/creatures_pests.png]
+  [TILE_DIM:32:32]
+  [PAGE_DIM_PIXELS:160:96]
+  
+[TILE_PAGE:STATUES_PESTS]
+  [FILE:images/items_pests.png]
+  [TILE_DIM:32:32]
+  [PAGE_DIM_PIXELS:32:192]
+
