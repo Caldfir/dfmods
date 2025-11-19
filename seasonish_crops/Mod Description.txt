@@ -1,0 +1,29 @@
+Seasonish Crops
+This mod makes surface crops seasonal, and subterranean crops grow year-round (the opposite of vanilla behaviour). Also greatly increases most growing times for better challenge / balance. Finally, it makes dwarves never get rusty at their Planting skill, as they may go many months between plantings / harvests. (Note: fertilizer seems to affect yields at harvest, not during planting)
+
+Changes:
+
+All subterranean crops grow year-round, and take a bit more than one season to mature, and have their default harvest size changed from 5 to 4. Thus, you should set their plots to the same crop all year and expect about 3 harvests per year. To get the same annual yield as vanilla, you will probably need ~4x as much field space.
+
+All surface crops require specific seasons to grow in (usually Spring, Summer, and/or Autumn), and have their default harvest size changed from 5 to 6. This also applies to "wild" crops found on the surface. They either take 2 seasons to mature and have 3 available seasons to grow, or take 1 season to mature and have 2 available seasons to grow. All of the 2 season crops share Summer as a season, so you shouldn't be able to "double up" 2 different crops in the same plot. Thus, you should set their plots to only plant a crop on the earliest season it is available, leaving all other seasons fallow, and expect 1 harvest per year. To get the same annual yield as vanilla, you will probably need ~8x as much field space.
+
+Subterranean Crops pros:
++ Can plant at any time of year
++ Seeds are much easier to acquire
++ Underground farms can be easier to protect & defend than surface farms
++ Shallow crops should get around half the crops-per-tile yield of surface crops over a year, but Deep crops should get about double the crops-per-tile yield of surface crops of a year, requiring less space than surface crops
++ 3 harvests per year means faster training in the Planting skill for dwarves
++ Short growth time means you start getting some crops sooner
+
+Surface Crops pros:
++ Surface farms are easier to construct
++ Surface crops should get around double the crops-per-tile yield of shallow crops over a year, so less space is required compared to shallow crops
++ Fewer but larger harvests means surface crops get better crops-per-dwarf-hour. Shallow crops require 6x as much dwarf-work to produce the same amount of crops, and deep crops still require 1.5x as much dwarf-work.
++ Larger stacksizes from the larger harvests apply down the production chain to food, drink, etc. stacksizes which translates to fewer hauling jobs, fewer items in the fort (which can affect FPS) compared to even deep crops.
+
+
+Known Issues:
+- Shrubs which die due to being out of season will remain on the surface, which after several in-game years results in them cluttering up the ground and blocking new shrubs from growing. Designating a dirt road to be built over the dead shrubs should remove them, however.
+I haven't yet found a solution to this, however in the meantime one possible workaround is to use the DFHack command "plant remove -spd" every few in-game years once they begin to clutter the surface, which should delete all dead shrubs/saplings on the entire map.
+
+Thanks to the authors of all the previous mods for making crops seasonal, especially Claije whose "Seasonal Farming" mod I looked at a bit to figure out how to change some things.
