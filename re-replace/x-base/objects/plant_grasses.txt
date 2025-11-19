@@ -9,8 +9,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -26,8 +26,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -43,8 +43,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -60,8 +60,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -74,8 +74,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -91,8 +91,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -105,8 +105,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TEMPERATE)
 	(BIOME:SAVANNA_TEMPERATE)
 	(BIOME:SHRUBLAND_TEMPERATE)
@@ -119,8 +119,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TROPICAL)
 	(BIOME:SAVANNA_TROPICAL)
 	(BIOME:SHRUBLAND_TROPICAL)
@@ -133,8 +133,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TROPICAL)
 	(BIOME:SAVANNA_TROPICAL)
 	(BIOME:SHRUBLAND_TROPICAL)
@@ -147,8 +147,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TROPICAL)
 	(BIOME:SAVANNA_TROPICAL)
 	(BIOME:SHRUBLAND_TROPICAL)
@@ -161,8 +161,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TROPICAL)
 	(BIOME:SAVANNA_TROPICAL)
 	(BIOME:SHRUBLAND_TROPICAL)
@@ -175,8 +175,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:GRASSLAND_TROPICAL)
 	(BIOME:SAVANNA_TROPICAL)
 	(BIOME:SHRUBLAND_TROPICAL)
@@ -189,8 +189,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_GRASSLAND)
 	(BIOME:ANY_SAVANNA)
 	(BIOME:ANY_SHRUBLAND)
@@ -203,8 +203,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_GRASSLAND)
 	(BIOME:ANY_SAVANNA)
 	(BIOME:ANY_SHRUBLAND)
@@ -217,8 +217,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_GRASSLAND)
 	(BIOME:ANY_SAVANNA)
 	(BIOME:ANY_DESERT)
@@ -231,8 +231,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:2:0:0:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_DESERT)
 	[GROWTH:BUD]
 		[GROWTH_NAME:baby toes succulent bud:STP]
@@ -255,8 +255,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:2:0:0:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_DESERT)
 	[GROWTH:BUD]
 		[GROWTH_NAME:pebble plant bud:STP]
@@ -278,8 +278,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_TEMPERATE_MARSH)
 	(BIOME:GRASSLAND_TEMPERATE)
 
@@ -290,8 +290,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_TEMPERATE_MARSH)
 	(BIOME:GRASSLAND_TEMPERATE)
 
@@ -302,8 +302,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_TEMPERATE_MARSH)
 	(BIOME:GRASSLAND_TEMPERATE)
 
@@ -314,8 +314,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_TEMPERATE_MARSH)
 	(BIOME:GRASSLAND_TEMPERATE)
 
@@ -326,8 +326,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_TEMPERATE_MARSH)
 	(BIOME:GRASSLAND_TEMPERATE)
 	[GROWTH:BUD]
@@ -350,8 +350,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_TEMPERATE_WETLAND)
 	[GROWTH:BUD]
 		[GROWTH_NAME:rush bud:STP]
@@ -373,8 +373,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_TEMPERATE_MARSH)
 	[GROWTH:BUD]
 		[GROWTH_NAME:marsh thistle bud:STP]
@@ -396,8 +396,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_WETLAND)
 
 [PLANT:CATTAIL]
@@ -407,8 +407,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_WETLAND)
 
 [PLANT:SAWGRASS]
@@ -418,8 +418,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:ANY_WETLAND)
 
 [PLANT:COTTONGRASS]
@@ -429,8 +429,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:MOUNTAIN)
 	(BIOME:TUNDRA)
 	[GROWTH:BUD]
@@ -453,8 +453,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:MOUNTAIN)
 	(BIOME:TUNDRA)
 	*** need timing
@@ -466,8 +466,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:MOUNTAIN)
 	(BIOME:TUNDRA)
 	(BIOME:TAIGA)
@@ -491,8 +491,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:2:0:1:2:0:0:6:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:MOUNTAIN)
 	(BIOME:TUNDRA)
 	(BIOME:TAIGA)
@@ -518,8 +518,8 @@ plant_grasses
 	[ALT_GRASS_TILES:243:242:170:169]
 	[ALT_PERIOD:200:100]
 	[GRASS_COLORS:5:0:1:5:0:1:5:0:0:0:0:1]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	[EVIL]
 	(BIOME:NOT_FREEZING)
 	(BIOME:MOUNTAIN)
@@ -534,8 +534,8 @@ plant_grasses
 	[ALT_GRASS_TILES:249:249:249:249]
 	[ALT_PERIOD:2000:20]
 	[GRASS_COLORS:7:0:1:7:0:0:7:0:0:0:0:1]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	[EVIL]
 	(BIOME:NOT_FREEZING)
 	(BIOME:MOUNTAIN)
@@ -548,8 +548,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'O':'o':9:248]
 	[GRASS_COLORS:3:0:1:3:0:0:3:0:0:0:0:1]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	[GOOD]
 	(BIOME:NOT_FREEZING)
 	(BIOME:MOUNTAIN)
@@ -562,8 +562,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:7:0:1:7:0:0:7:0:0:0:0:1]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	[GOOD]
 	(BIOME:NOT_FREEZING)
 	(BIOME:MOUNTAIN)
@@ -576,8 +576,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:3:0:1:3:0:0:3:0:0:0:0:1]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:SUBTERRANEAN_WATER)
 	[UNDERGROUND_DEPTH:2:2]
 
@@ -588,8 +588,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:7:0:1:6:0:1:7:0:0:0:0:1]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:SUBTERRANEAN_WATER)
 	[UNDERGROUND_DEPTH:1:1]
 
@@ -600,8 +600,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:'.':',':'`':''']
 	[GRASS_COLORS:5:0:1:5:0:0:5:0:0:0:0:1]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:SUBTERRANEAN_WATER)
 	[UNDERGROUND_DEPTH:3:3]
 
@@ -612,8 +612,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:231:159:231:159]
 	[GRASS_COLORS:2:0:1:2:0:1:2:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:FOREST_TEMPERATE_CONIFER)
 
 [PLANT:BAMBOO, GOLDEN] Phyllostachys aurea
@@ -623,8 +623,8 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:231:159:231:159]
 	[GRASS_COLORS:2:0:1:2:0:1:2:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:FOREST_TEMPERATE_BROADLEAF)
 	(BIOME:FOREST_TROPICAL_DRY_BROADLEAF)
 
@@ -635,7 +635,7 @@ plant_grasses
 	[GRASS]
 	[GRASS_TILES:231:159:231:159]
 	[GRASS_COLORS:2:0:1:2:0:1:2:0:1:6:0:0]
-	[WET]
-	[DRY]
+	(WET)
+	(DRY)
 	(BIOME:FOREST_TEMPERATE_BROADLEAF)
 	(BIOME:FOREST_TROPICAL_DRY_BROADLEAF)
