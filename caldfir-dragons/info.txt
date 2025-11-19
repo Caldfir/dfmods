@@ -51,6 +51,6 @@ Note that trap-avoiders need some extra work in order to be caged. Dragons can b
 [STEAM_TAG:megabeast]
 [STEAM_TAG:balance]
 [STEAM_TAG:tweak]
-[STEAM_CHANGELOG:remove references to cave-dragon wings in description]
+[STEAM_CHANGELOG:drop the requirements from the mod load-order]
 
 [STEAM_FILE_ID:3141891718]

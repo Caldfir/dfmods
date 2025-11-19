@@ -44,6 +44,6 @@ If you like the metallic colors, you can get them as a standalone mod (url=https
 [STEAM_TAG:megabeast]
 [STEAM_TAG:balance]
 [STEAM_TAG:tweak]
-[STEAM_CHANGELOG:colors to match metallic-colors mod]
+[STEAM_CHANGELOG:drop the requirements from the mod load-order]
 
 [STEAM_FILE_ID:3144865739]
