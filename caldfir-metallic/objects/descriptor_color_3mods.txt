@@ -1,18 +1,18 @@
-descriptor_color_3mostahl
+descriptor_color_3mods
 
 [OBJECT:DESCRIPTOR_COLOR]
 
-steel
+mostahl
+https://steamcommunity.com/sharedfiles/filedetails/?id=3583652729
 
 [COLOR:METALLIC_FERROCHROME]
-	[NAME:ferrochrome]
+	[NAME:ferrochrome-gray]
 	[WORD:GRAY]
 	[WORD:METAL]
 	[RGB:98:93:90]
 
 [COLOR:METALLIC_MOSTAHL]
-	[NAME:mostahl]
-	[WORD:GRAY]
+	[NAME:mostahl-tan]
+	[WORD:TAN]
 	[WORD:METAL]
 	[RGB:187:154:109]
-
