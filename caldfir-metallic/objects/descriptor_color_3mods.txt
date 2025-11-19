@@ -6,13 +6,13 @@ mostahl
 https://steamcommunity.com/sharedfiles/filedetails/?id=3583652729
 
 [COLOR:METALLIC_FERROCHROME]
-	[NAME:ferrochrome-gray]
-	[WORD:GRAY]
-	[WORD:METAL]
-	[RGB:98:93:90]
+  [NAME:ferrochrome-gray]
+  [WORD:GRAY]
+  [WORD:METAL]
+  [RGB:98:93:90]
 
 [COLOR:METALLIC_MOSTAHL]
-	[NAME:mostahl-tan]
-	[WORD:TAN]
-	[WORD:METAL]
-	[RGB:187:154:109]
+  [NAME:mostahl-tan]
+  [WORD:TAN]
+  [WORD:METAL]
+  [RGB:187:154:109]
