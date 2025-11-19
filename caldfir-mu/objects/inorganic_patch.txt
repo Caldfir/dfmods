@@ -1,0 +1,9 @@
+inorganic_patch
+
+[OBJECT:INORGANIC]
+
+mostahl
+https://steamcommunity.com/sharedfiles/filedetails/?id=3583652729
+
+[SELECT_INORGANIC:MOSTAHL]
+  [SPECIAL]
