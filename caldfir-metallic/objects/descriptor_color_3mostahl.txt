@@ -1,0 +1,18 @@
+descriptor_color_3mostahl
+
+[OBJECT:DESCRIPTOR_COLOR]
+
+steel
+
+[COLOR:METALLIC_FERROCHROME]
+	[NAME:ferrochrome]
+	[WORD:GRAY]
+	[WORD:METAL]
+	[RGB:98:93:90]
+
+[COLOR:METALLIC_MOSTAHL]
+	[NAME:mostahl]
+	[WORD:GRAY]
+	[WORD:METAL]
+	[RGB:187:154:109]
+

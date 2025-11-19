@@ -1,4 +1,4 @@
-inorganic_metallic
+inorganic_1metallic
 
 [OBJECT:INORGANIC]
 
