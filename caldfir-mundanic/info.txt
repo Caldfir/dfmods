@@ -15,9 +15,14 @@
 This is the "mundane" variant of the main "metallic" mod. This version does not add palette entries for the generated metals.
 
 This will somewhat help with dwarfs and traders bringing cloth dyed crazy colors.
+
+(i)see the main mod for overall description(/i)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3161048506
 ]
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
 [STEAM_TAG:graphics]
 [STEAM_CHANGELOG:separate "mundane" version of the mod]
 
+
+[STEAM_FILE_ID:3610492859]

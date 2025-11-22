@@ -1,8 +1,8 @@
 [ID:caldfir_metallic]
 [NUMERIC_VERSION:15]
 [DISPLAYED_VERSION:0.15]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:15]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.15]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:13]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.13]
 [REQUIRES_ID_BEFORE_ME:vanilla_materials]
 [REQUIRES_ID_BEFORE_ME:vanilla_descriptors]
 [REQUIRES_ID_BEFORE_ME:vanilla_procedural]
@@ -14,21 +14,25 @@
 [STEAM_TITLE:Metallic]
 [STEAM_DESCRIPTION:
 The default metals all use flat color-palettes, and have a lot of repeats. This mod adds a unique palette for each metal-type, using various hues to simulate rust, reflections, and opalescence.
-
 This will affect the visuals and color-descriptions for anything made of metal or the corresponding "native"-metal. Zero gameplay/balance changes.
+The divine (i)metals(/i) each have new unique palettes. Special thanks to (b)zippy38(/b) for the color baselines.
+
+(h3)Compatibility(/h3)
 
 This should generally (i)not(/i) conflict with mods that modify metal material properties or add new metals. This mod should probably occur after such mods in load-order.
 
 This (b)WILL(/b) conflict with any other mods that add colors or modify the default palette.
 
-Known Issues:
+(h3)Known Issues(/h3)
+(list)
+  (*)dwarfs can have preferences for metallic-colors
+  (*)the metallic-colors are available in dye-mixing
+  (*)migrants and NPCs wear items dyed metallic-colors
+  (*)traders bring cloth dyed metallic-colors
+(/list) 
 
-- dwarfs can have preferences for metallic-colors
-- the metallic-colors are available in dye-mixing
-- migrants and NPCs wear items dyed metallic-colors
-- traders bring cloth dyed metallic-colors
-
-*see caldfir_mundanic for a partial workaround*
+(i)see metallic_mundane for a partial workaround(/i)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3610492859
 ]
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
