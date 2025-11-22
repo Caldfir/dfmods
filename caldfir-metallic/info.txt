@@ -1,11 +1,12 @@
 [ID:caldfir_metallic]
-[NUMERIC_VERSION:14]
-[DISPLAYED_VERSION:0.14]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:13]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.13]
+[NUMERIC_VERSION:15]
+[DISPLAYED_VERSION:0.15]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:15]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.15]
 [REQUIRES_ID_BEFORE_ME:vanilla_materials]
 [REQUIRES_ID_BEFORE_ME:vanilla_descriptors]
 [REQUIRES_ID_BEFORE_ME:vanilla_procedural]
+[CONFLICTS_WITH_ID:caldfir_mundanic]
 [AUTHOR:Caldfir]
 [NAME:Metallic]
 [DESCRIPTION:Custom metallic-palette for each vanilla metal.]
@@ -19,10 +20,22 @@ This will affect the visuals and color-descriptions for anything made of metal o
 This should generally (i)not(/i) conflict with mods that modify metal material properties or add new metals. This mod should probably occur after such mods in load-order.
 
 This (b)WILL(/b) conflict with any other mods that add colors or modify the default palette.
+
+Known Issues:
+
+- dwarfs can have preferences for metallic-colors
+- the metallic-colors are available in dye-mixing
+- migrants and NPCs wear items dyed metallic-colors
+- traders bring cloth dyed metallic-colors
+
+*see caldfir_mundanic for a partial workaround*
 ]
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
 [STEAM_TAG:graphics]
-[STEAM_CHANGELOG:add divine metals and colors using LUA]
+[STEAM_CHANGELOG:rename to hyphenated color-names to seem less weird in preferences etc]
+[STEAM_CHANGELOG:tweaks to many of the generated-metal colors to look less weird and match their SPHERE better]
+[STEAM_CHANGELOG:tweaks to copper, bronzes, brass to reduce corrosion level on dark-variant colors]
+[STEAM_CHANGELOG:separate "mundane" version of the mod]
 
 [STEAM_FILE_ID:3161048506]

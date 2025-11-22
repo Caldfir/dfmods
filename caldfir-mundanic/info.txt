@@ -1,0 +1,23 @@
+[ID:caldfir_mundanic]
+[NUMERIC_VERSION:15]
+[DISPLAYED_VERSION:0.15]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:15]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.15]
+[REQUIRES_ID_BEFORE_ME:vanilla_materials]
+[REQUIRES_ID_BEFORE_ME:vanilla_descriptors]
+[CONFLICTS_WITH_ID:caldfir_metallic]
+[AUTHOR:Caldfir]
+[NAME:Metallic-Mundane]
+[DESCRIPTION:Custom metallic-palette for each vanilla metal.]
+
+[STEAM_TITLE:Metallic-Mundane]
+[STEAM_DESCRIPTION:
+This is the "mundane" variant of the main "metallic" mod. This version does not add palette entries for the generated metals.
+
+This will somewhat help with dwarfs and traders bringing cloth dyed crazy colors.
+]
+[STEAM_TAG:mod]
+[STEAM_TAG:metals]
+[STEAM_TAG:graphics]
+[STEAM_CHANGELOG:separate "mundane" version of the mod]
+
