@@ -1,6 +1,6 @@
 [ID:caldfir_mundanic]
-[NUMERIC_VERSION:15]
-[DISPLAYED_VERSION:0.15]
+[NUMERIC_VERSION:16]
+[DISPLAYED_VERSION:0.16]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:15]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.15]
 [REQUIRES_ID_BEFORE_ME:vanilla_materials]
@@ -22,7 +22,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3161048506
 [STEAM_TAG:mod]
 [STEAM_TAG:metals]
 [STEAM_TAG:graphics]
-[STEAM_CHANGELOG:separate "mundane" version of the mod]
+[STEAM_CHANGELOG:keep version sync with primary metallic mod]
 
 
 [STEAM_FILE_ID:3610492859]
