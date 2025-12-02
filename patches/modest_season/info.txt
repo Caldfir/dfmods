@@ -7,7 +7,7 @@ AUTHOR:xenon
 AUTHOR:Button
 [AUTHOR:Caldfir]
 [NAME:ReREPLACE Modest Seasonal Crops]
-[REQUIRES_ID_BEFORE_ME:re_replace_base]
-[CONFLICTS_WITH_ID:seasonish_crops]
+[CONFLICTS_WITH_ID:vanilla_plants]
+[CONFLICTS_WITH_ID:modest_plants]
 [CONFLICTS_WITH_ID:seasonish_crops]
 [DESCRIPTION:Fixes non-functional surface crops and makes growth time longer.]
