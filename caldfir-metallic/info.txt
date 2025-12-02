@@ -1,8 +1,8 @@
 [ID:caldfir_metallic]
-[NUMERIC_VERSION:16]
-[DISPLAYED_VERSION:0.16]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:15]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.15]
+[NUMERIC_VERSION:17]
+[DISPLAYED_VERSION:0.17]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:17]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.17]
 [REQUIRES_ID_BEFORE_ME:vanilla_materials]
 [REQUIRES_ID_BEFORE_ME:vanilla_descriptors]
 [REQUIRES_ID_BEFORE_ME:vanilla_procedural]
@@ -25,6 +25,7 @@ This (b)WILL(/b) conflict with any other mods that add colors or modify the defa
 
 (h3)Known Issues(/h3)
 (list)
+  (*)procedural creatures can use metallic-colors
   (*)dwarfs can have preferences for metallic-colors
   (*)the metallic-colors are available in dye-mixing
   (*)migrants and NPCs wear items dyed metallic-colors
