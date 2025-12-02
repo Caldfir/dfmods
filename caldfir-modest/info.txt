@@ -16,6 +16,18 @@ The vanilla game-files contain many plants that are (variously) non-functional.
 Plants either produce no seeds, or cannot be gathered, or produce seeds that cannot be used.
 This mod intends to correct those issues so that these plants can be correctly gathered and farmed where appropriate.
 
-(i)This mod is intended as a continuation of the modest-plants mod, which is not being maintained as of the 2025 dye updates.(/i)
+(h3)Summary(/h3)
+(list)
+  (*)adds processable seed-pods to legumes
+  (*)separate milling reactions for flour from dye
+  (*)removes useless tree-seeds
+  (*)misc accumulated fixes to variously buggy plants
+(/list) 
+
+(h3)Installation(/h3)
+This is intended as a (b)full replacement(/b) for the vanilla plants module. Slot this into your load-order where "Vanilla Plants" would normally go.
+
+(h3)Background(/h3)
+(i)This mod is intended as a continuation of the modest-plants mod, which is no longer being maintained as of the 2025 dye updates.(/i)
 https://steamcommunity.com/sharedfiles/filedetails/?id=3159675996
 ]
