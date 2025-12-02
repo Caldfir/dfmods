@@ -1,4 +1,4 @@
-[ID:re_modest_season]
+[ID:caldfir_modest_season]
 [NUMERIC_VERSION:10]
 [DISPLAYED_VERSION:0.10]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:10]
@@ -6,8 +6,7 @@
 AUTHOR:xenon
 AUTHOR:Button
 [AUTHOR:Caldfir]
-[NAME:ReREPLACE Modest Seasonal Crops]
+[NAME:Caldfir Modest Plants]
 [CONFLICTS_WITH_ID:vanilla_plants]
 [CONFLICTS_WITH_ID:modest_plants]
-[CONFLICTS_WITH_ID:seasonish_crops]
 [DESCRIPTION:Fixes non-functional surface crops and makes growth time longer.]
