@@ -1,4 +1,4 @@
-[ID:caldfir_modest_season]
+[ID:caldfir_modest_plants]
 [NUMERIC_VERSION:10]
 [DISPLAYED_VERSION:0.10]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:10]
@@ -9,4 +9,4 @@ AUTHOR:Button
 [NAME:Caldfir Modest Plants]
 [CONFLICTS_WITH_ID:vanilla_plants]
 [CONFLICTS_WITH_ID:modest_plants]
-[DESCRIPTION:Fixes non-functional surface crops and makes growth time longer.]
+[DESCRIPTION:Fixes for non-functional vanilla plants.]
