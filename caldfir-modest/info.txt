@@ -1,12 +1,21 @@
 [ID:caldfir_modest_plants]
-[NUMERIC_VERSION:10]
-[DISPLAYED_VERSION:0.10]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:10]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.10]
-AUTHOR:xenon
+[NUMERIC_VERSION:14]
+[DISPLAYED_VERSION:1.10]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:14]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.10]
 AUTHOR:Button
 [AUTHOR:Caldfir]
-[NAME:Caldfir Modest Plants]
+[NAME:Modest Plants 2025]
 [CONFLICTS_WITH_ID:vanilla_plants]
 [CONFLICTS_WITH_ID:modest_plants]
 [DESCRIPTION:Fixes for non-functional vanilla plants.]
+
+[STEAM_TITLE:Modest Plants 2025]
+[STEAM_DESCRIPTION:
+The vanilla game-files contain many plants that are (variously) non-functional.
+They either produce no seeds, or cannot be gathered, or produce seeds that cannot be used.
+This mod intends to correct those issues so that these plants can be correctly gathered and farmed where appropriate.
+
+(i)This mod is intended as a continuation of the modest-plants mod, which is not being maintained as of the 2025 dye updates.(/i)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3159675996
+]
