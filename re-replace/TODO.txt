@@ -1,0 +1,9 @@
+
+- remove pomelos from europe
+- more plant variation in tropical saltwater marshes [DRY] (currently just bloated-tubers?)
+- add a second crop to tundra so it isnt just strawberries (bilberries?)
+- remove good/evil trees from marshes
+- set a grass type to use in deserts
+- add a "bay12" pseudo-region to add all the "classic" DF creatures
+
+- add a moss type to use in forests (?) + graphics
