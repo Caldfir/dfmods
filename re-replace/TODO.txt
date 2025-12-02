@@ -1,5 +1,3 @@
 
-- add a "bay12" pseudo-region to add all the "classic" DF creatures
-
 - set a grass type to use in sandy deserts + graphics
 - add a moss type to use in forests (?) + graphics
