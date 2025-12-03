@@ -4,6 +4,6 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:9]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.09]
 [AUTHOR:Caldfir]
-[NAME:ReREPLACE (Australia)]
+[NAME:ReBIOGEO (Australia)]
 [REQUIRES_ID_BEFORE_ME:re_biogeo_base]
 [DESCRIPTION:Enables creatures and plants from Australia+Oceania.]

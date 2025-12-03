@@ -4,9 +4,60 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:9]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.09]
 [AUTHOR:Caldfir]
-[NAME:ReREPLACE]
+[NAME:ReBIOGEO]
 [CONFLICTS_WITH_ID:vanilla_creatures]
 [CONFLICTS_WITH_ID:vanilla_plants]
 [REQUIRES_ID_BEFORE_ME:vanilla_entities]
-[DESCRIPTION:Base mod for regional creatures and plants.]
+[DESCRIPTION:Base for biogeography mods.]
 
+[STEAM_TITLE:ReBIOGEO]
+[STEAM_DESCRIPTION:
+
+(h3)Redone Biogeography(/h3)
+
+- revises all plants and trees to make biomes more distinct
+- sub-mods select creatures and plants up by regional availability circa 1400AD
+- all vanilla plants and animals exist, but biome and entity availability are adjusted
+
+- extended growth-duration for all crops (Seasonish Crops)
+- many bugfixes for surface crops (Modest Plants)
+
+(h3)Why?(/h3)
+
+The game has a great selection of plants and animals, but *many* have their biome
+set to NOT_FREEZING. This gives us a sort of gray-goo situation, where all the same
+stuff is living everywhere. Now your coniferous forests are actually dominated by
+conifers, wheat grows in grasslands and turnips grow in a marsh. This increases
+the differences between embarks significantly.
+
+I split things up by continent because koalas wandering through my quasi-medieval
+fantasy setting is very distracting. 
+
+(h3)Installation(/h3)
+
+This is intended as a (b)full replacement(/b) for the vanilla plants and animals modules.
+Remove vanilla creatures and plants modules. Place this mod after all the remaining vanilla modules.
+
+You will need at least one of the sub-mods for region selection, but can install any combination:
+- All: All the plants and animals. This will get you only the biome-redistribution.
+- 23a: All the plants and animals from DF 23a (Boatmurdered).
+- Magic: Totally fabricated or imaginary plants and animals.
+- <continents>: All plants and animals naturalized to the continent circa 1400AD, plus animal-man and giant variants.
+
+For a functional caverns, you will want Magic or 23a as a baseline. Add as many or as few continents as you want.
+
+Dead shrubs may build-up on the surface when running this mod.
+Th automate cleanup with DFHack:
+
+(b)Dwarf Fortress/dfhack-config/init/onMapLoad.init(\b):
+```
+repeat --name seasonal-pruning --time 3 --timeUnits months --command [ plant remove -spd ]
+```
+
+(h3)Background(/h3)
+Plant mods merged into this one:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3159675996
+https://steamcommunity.com/sharedfiles/filedetails/?id=2898438840
+
+Unfortunately, plant-mods are mutually exclusive, so I chose to merge my
+]
