@@ -1,0 +1,6 @@
+creature_seasonish_skill_rate
+
+[OBJECT:CREATURE]
+
+[SELECT_CREATURE:DWARF]
+	[SKILL_RATE:PLANT:100:NONE:NONE:NONE]	{makes herbalism skill for planting/farming no longer degrade/become rusty}
