@@ -19,6 +19,14 @@ This mod is a combination of "Seasonish Crops" and "Modest Plants". This combine
 (h3)Installation(/h3)
 This is intended as a (b)full replacement(/b) for the vanilla plants module. Slot this into your load-order where "Vanilla Plants" would normally go.
 
+Dead shrubs may build-up on the surface when running this mod.
+Th automate cleanup with DFHack:
+
+(b)Dwarf Fortress/dfhack-config/init/onMapLoad.init(\b):
+```
+repeat --name seasonal-pruning --time 3 --timeUnits months --command [ plant remove -spd ]
+```
+
 (h3)Background(/h3)
 The original mods this is based upon are:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3159675996
