@@ -1,33 +1,28 @@
-[ID:modest_plants_2025]
-[NUMERIC_VERSION:14]
-[DISPLAYED_VERSION:1.10]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:14]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.10]
+[ID:modest_seasonish]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:0.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.01]
 AUTHOR:Button
+AUTHOR:xenon
 [AUTHOR:Caldfir]
-[NAME:Modest Plants 2025]
+[NAME:Modest Seasons]
 [CONFLICTS_WITH_ID:vanilla_plants]
 [CONFLICTS_WITH_ID:modest_plants]
-[DESCRIPTION:Fixes for non-functional vanilla plants.]
+[CONFLICTS_WITH_ID:seasonish_crops]
+[DESCRIPTION:Fixes for vanilla plants and makes them grow slower.]
 
-[STEAM_TITLE:Modest Plants 2025]
+[STEAM_TITLE:Modest Seasons]
 [STEAM_DESCRIPTION:
-The vanilla game-files contain many plants that are (variously) non-functional.
-Plants either produce no seeds, or cannot be gathered, or produce seeds that cannot be used.
-This mod intends to correct those issues so that these plants can be correctly gathered and farmed where appropriate.
-
-(h3)Summary(/h3)
-(list)
-  (*)adds processable seed-pods to legumes
-  (*)separate milling reactions for flour from dye
-  (*)removes useless tree-seeds
-  (*)misc accumulated fixes to variously buggy plants
-(/list) 
+This mod is a combination of "Seasonish Crops" and "Modest Plants". This combines a slower crop growth-rate with many bugfixes.
 
 (h3)Installation(/h3)
 This is intended as a (b)full replacement(/b) for the vanilla plants module. Slot this into your load-order where "Vanilla Plants" would normally go.
 
 (h3)Background(/h3)
-(i)This mod is intended as a continuation of the modest-plants mod, which is no longer being maintained as of the 2025 dye updates.(/i)
+The original mods this is based upon are:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3159675996
+https://steamcommunity.com/sharedfiles/filedetails/?id=2898438840
+
+I like both and now I don't have to choose!
 ]
