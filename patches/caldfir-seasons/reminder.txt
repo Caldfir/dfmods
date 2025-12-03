@@ -1,2 +1,3 @@
-repeat --name dead-shrubs --time 3 --timeUnits months --command [ plant remove -spd ]
+# copy this into your "Dwarf Fortress/dfhack-config/init/onMapLoad.init"
 
+repeat --name seasonal-pruning --time 3 --timeUnits months --command [ plant remove -spd ]
