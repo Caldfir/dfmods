@@ -2,6 +2,9 @@ inorganic_patch
 
 [OBJECT:INORGANIC]
 
+[SELECT_INORGANIC:GARNIERITE]
+  [STATE_COLOR:ALL_SOLID:AQUAMARINE]
+
 mostahl
 https://steamcommunity.com/sharedfiles/filedetails/?id=3583652729
 
