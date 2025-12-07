@@ -6,6 +6,7 @@ use strict;
 while (<>)
 {
   s/\[(BIOME:\w*)\]/($1)/g;
+  s/\[(UNDERGROUND_DEPTH:\w*:\w*)\]/($1)/g;
   s/\[(COMMON_DOMESTIC)\]/($1)/g;
   s/\[(WAGON_PULLER|PACK_ANIMAL)\]/($1)/g;
   s/\[((PET|MOUNT)\w*)\]/($1)/g;
