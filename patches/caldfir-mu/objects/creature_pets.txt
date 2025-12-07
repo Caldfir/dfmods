@@ -1,5 +1,5 @@
 
-creature_fixes
+creature_pets
 
 [OBJECT:CREATURE]
 
