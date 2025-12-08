@@ -6,7 +6,7 @@ creature_samerica
 creature_amphibians.txt
 
 [SELECT_CREATURE:TOAD]
-  [PET_EXOTIC]
+  [PET]
   [BIOME:POOL_TEMPERATE_FRESHWATER]
   [BIOME:LAKE_TEMPERATE_FRESHWATER]
   [BIOME:SWAMP_TEMPERATE_FRESHWATER]
@@ -41,7 +41,6 @@ creature_amphibians.txt
 creature_annelids.txt
 
 [SELECT_CREATURE:WORM]
-  [PET]
   [BIOME:FOREST_TAIGA]
   [BIOME:ANY_TEMPERATE]
   [BIOME:ANY_TROPICAL]
@@ -1246,7 +1245,7 @@ creature_riverlakepool_new.txt
   [UNDERGROUND_DEPTH:0:1]
 
 [SELECT_CREATURE:POND_TURTLE]*Testudines???
-  [PET_EXOTIC]
+  [PET]
   [BIOME:ANY_POOL]
 	[BIOME:ANY_LAKE]
 	[BIOME:ANY_WETLAND]
