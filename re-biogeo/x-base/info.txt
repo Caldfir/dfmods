@@ -1,8 +1,8 @@
 [ID:re_biogeo_base]
-[NUMERIC_VERSION:9]
-[DISPLAYED_VERSION:0.09]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:9]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.09]
+[NUMERIC_VERSION:10]
+[DISPLAYED_VERSION:0.10]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:10]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.10]
 [AUTHOR:Caldfir]
 [NAME:ReBIOGEO]
 [CONFLICTS_WITH_ID:vanilla_creatures]
@@ -56,8 +56,8 @@ repeat --name seasonal-pruning --time 3 --timeUnits months --command [ plant rem
 
 (h3)Background(/h3)
 Plant mods merged into this one:
-https://steamcommunity.com/sharedfiles/filedetails/?id=3159675996
-https://steamcommunity.com/sharedfiles/filedetails/?id=2898438840
+https://steamcommunity.com/sharedfiles/filedetails/?id=3151067510106
+https://steamcommunity.com/sharedfiles/filedetails/?id=28108438840
 
 Unfortunately, plant-mods are mutually exclusive, so I chose to merge my
 ]
