@@ -86,7 +86,7 @@ plant_grasses.txt
 [SELECT_PLANT:BABY TOES SUCCULENT]*Ruschieae (Fenestraria rhopalophylla)
   [DRY]
   [BIOME:DESERT_BADLAND]
-  [BIOME:GRASSLAND_TROPICAL]
+  [BIOME:DESERT_ROCK]
 
 [SELECT_PLANT:PEBBLE PLANTS]*Ruschieae (*Lithops)
   [DRY]
@@ -95,8 +95,9 @@ plant_grasses.txt
 
 [SELECT_PLANT:RUSH]*Juncus
   [WET]
-  [DRY]
   [BIOME:ANY_WETLAND]
+  [BIOME:ANY_GRASSLAND]
+  [BIOME:ANY_DESERT]
 
 [SELECT_PLANT:COMMON REED]Phragmites australis
   [WET]
@@ -105,6 +106,7 @@ plant_grasses.txt
 [SELECT_PLANT:CATTAIL]*Typha
   [WET]
   [BIOME:ANY_WETLAND]
+  [BIOME:ANY_SHRUBLAND]
 
 [SELECT_PLANT:SAWGRASS]*Cladium
   [WET]
