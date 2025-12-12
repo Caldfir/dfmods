@@ -1,1 +1,0 @@
-repeat --name dead-shrubs --time 3 --timeUnits months --command [ plant remove -spd ]
