@@ -635,11 +635,13 @@ creature_subterranean.txt
   [BIOME:SUBTERRANEAN_CHASM]
 	[UNDERGROUND_DEPTH:2:3]
 
-[SELECT_CREATURE:FISH_CAVE]Amblyopsis spelaea/Astyanax mexicanus
+[SELECT_CREATURE:FISH_CAVE]*Actinopterygii???
+  Amblyopsis spelaea/Astyanax mexicanus/Garra andruzzii
   [BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:1:2]
 
-[SELECT_CREATURE:LOBSTER_CAVE]Cambarus aculabrum
+[SELECT_CREATURE:LOBSTER_CAVE]*Astacidea???
+  Orconectes*/Cambarus aculabrum/Munidopsis polymorpha
   [BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:1:2]
 

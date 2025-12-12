@@ -1285,7 +1285,8 @@ creature_subterranean
 	[NAME:cave lobster:cave lobsters:cave lobster]
 	[CASTE_NAME:cave lobster:cave lobsters:cave lobster]
 	[CREATURE_TILE:157][COLOR:7:0:1]
-	[VERMIN_FISH][FISHITEM][VERMIN_NOFISH]
+	[VERMIN_GROUNDER]Bug13199
+  [VERMIN_FISH][FISHITEM][VERMIN_NOFISH]
 	[AQUATIC][SMALL_REMAINS][UNDERSWIM]
 	[NATURAL]
 	(BIOME:SUBTERRANEAN_WATER)
