@@ -51,7 +51,7 @@ Th automate cleanup with DFHack:
 
 (b)Dwarf Fortress/dfhack-config/init/onMapLoad.init(\b):
 ```
-repeat --name seasonal-pruning --time 3 --timeUnits months --command [ plant remove -spd ]
+repeat --name seasonal-pruning --time 3 --timeUnits months --command ( plant remove -spd )
 ```
 
 (h3)Background(/h3)

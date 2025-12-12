@@ -6,7 +6,7 @@
 [REQUIRES_ID_BEFORE_ME:vanilla_materials]
 [REQUIRES_ID_BEFORE_ME:vanilla_descriptors]
 [REQUIRES_ID_BEFORE_ME:vanilla_procedural]
-[REQUIRED_ID:Mostahl]
+[REQUIRES_ID:Mostahl]
 [CONFLICTS_WITH_ID:caldfir_mundanic]
 [CONFLICTS_WITH_ID:caldfir_metallic]
 [AUTHOR:Caldfir]
